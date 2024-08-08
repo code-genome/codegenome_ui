@@ -1,0 +1,119 @@
+@use '@carbon/react/scss/themes';
+@use '@carbon/react/scss/theme' with (
+  $theme: themes.$g100
+);
+@import '@carbon/type';
+@import '@carbon/layout';
+
+
+// @import '@carbon/ibm-security/scss/globals/theme/index';
+.main_area {
+  $ui-04: var(--cds-ui-04, #6f6f6f);
+  display: flex;
+  flex-direction: row;
+  // flex-wrap: wrap;
+  width: 100%;
+  height: 100%;
+  overflow-y: hidden;
+
+  .searchbox {
+    margin-bottom: $spacing-06;
+  }
+
+  .selected_columns_title {
+    // @include carbon--type-style('body-short-02');
+    display: flex;
+    margin-top: $spacing-04;
+    margin-bottom: $spacing-03;
+  }
+
+  .selected_columns_subtitle {
+    // @include carbon--type-style('helper-text-01');
+    display: flex;
+    margin-bottom: $spacing-05;
+  }
+
+  .column_checkbox {
+    margin-bottom: $spacing-03;
+  }
+
+  .droppable_area {
+    margin-left: -20px;
+
+    .droppable_column_list {
+      padding-bottom: $spacing-09;
+    }
+
+    .drag_icon {
+      fill: var(--cds-icon-01, #121619);
+    }
+
+    .draggable_item {
+      display: flex;
+      top: auto !important;
+      left: auto !important;
+      align-items: center;
+      justify-content: space-between;
+      margin: 0 $spacing-07 $spacing-03 20px;
+      margin-left: 20px;
+      background-color: var(--cds-ui-03, #393939);
+      user-select: none;
+      transition: background-color 150ms;
+      font-size: 0.9rem;
+
+      .hover {
+        background: $ui-04;
+      }
+      &:hover {
+        background: $ui-04;
+      }
+      a:hover,
+      a:focus {
+        background: $ui-04;
+      }
+
+      &.drag_disabled {
+        .drag_icon {
+          display: none;
+        }
+      }
+    }
+
+    .droppable_column_list__not_dragging .draggable_item {
+      .hover {
+        background: $ui-04;
+      }
+    }
+
+    .drag_handle {
+      display: flex;
+      flex: 1;
+      align-items: center;
+      margin-right: $spacing-02;
+      padding: $spacing-03 0 $spacing-03 $spacing-03;
+    }
+
+    .droppable_column_list_item {
+      flex: 1;
+      width: 150px;
+      margin: 0 $spacing-03;
+      transition: none;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .delete_icon {
+      margin-right: $spacing-02;
+      border-left: 1px solid black;
+      transition: none;
+    }
+
+    .draggable_item__dragging .delete_icon {
+      visibility: hidden;
+    }
+
+    .draggable_item__dragging {
+      background: $ui-04;
+    }
+  }
+}

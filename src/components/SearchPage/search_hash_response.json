@@ -1,0 +1,1125 @@
+{
+  "query": {
+    "pkg.summary": "Performance monitoring for the Linux kernel",
+    "pkg.version": "3.10.0",
+    "sha256": "d81e6ad3a689839ef620ae3e5c932a9d0f5ef9bcd3f88d2e10f029ceb30a4f23",
+    "id": "file:d81e6ad3a689839ef620ae3e5c932a9d0f5ef9bcd3f88d2e10f029ceb30a4f23",
+    "ssdeep": "49152:+QpR8UO+s4gNFf6BvrKhBu0XmXMefSZfPe5S3c1t6i5+UxKdNuiHynxnnalSUfxQ:bR8/JA8b3inyU4fBePNgYyEKh1y",
+    "pkg.arch": "x86_64",
+    "pkg.name": "perf",
+    "pkg.description": "This package contains the perf tool, which enables performance monitoring\nof the Linux kernel.",
+    "pkg.rsa-header": "b'iQIVAwUAX43H3yTGqKf0qA61AQi5pQ//dwDnIeR91Mrj9pgaf9KwJo/NKmc4xgElfyeHZnaUU78mSrS4vaik+/xduWjB+PovWxe7wUHEQJChbDHmd7gSEVvsKouVkH23vf3WwVSgQQ4rSU4JkuxWpvwJgiH4nTl+oDR0/inrZnR/OmH/G13XHnyykGNoNYaYTlrWKJR9UYDV4fNx/BeBQtM8cNm4NV1zYiOKFz6rkvp/YlGCK/KnuSOOx4crHsLR/AGjRmLQLYBoTI6zO87JaFFu9aPCLc4VhSqiqdujgBbZmPvckaWdfg1m9+a+cm0cpYCxs8S0jk5RzCdCIf1u4N6YOpW4LIJ3yM4k3Q7oNmlr5Rcxy+VNbSgk7O4fynlntyPWvqTT/YbRlz8h7VjaBOpBphqbttItmG4DxgEhPLVWptjgnRnxbUIW+Bca/1Qo7qaCp0djXMf4x53A9zi0c+hG+L66BhcakhwFUcEQLW3ZxvaDVCOW3xd6r6VmngYLDpTbXWzNBw6se+pXOiIel6fy1OuMtQi26sInvTCJr77/VBRhjftdSpKzgPLeP3po26wVIZ0QG2KEpO1nELhOCOA6G7h5408zt0jG8GWrn9PRIrl6iuW6EJ4CPAR6hKUmQSnZ3MRvAjRtL8WXkLlWEDydnNwa+lCtYUabmOZTSRIsChtV/cNbtW+LGCB8oe3hSEtrl2GlWHQ='",
+    "metadata.filesize": 10123956,
+    "pkg.type": "rpm",
+    "metadata.name": "perf-3.10.0-1160.el7.x86_64.rpm",
+    "value": "d81e6ad3a689839ef620ae3e5c932a9d0f5ef9bcd3f88d2e10f029ceb30a4f23",
+    "pkg.provides": [
+      "perf",
+      "perl(Perf::Trace::Core)",
+      "perl(Perf::Trace::Util)",
+      "libperf-jvmti.so()(64bit)",
+      "perf(x86-64)",
+      "perl(Perf::Trace::Context)"
+    ],
+    "type": "file",
+    "last_updated": 1680812185,
+    "pkg.release": "1160.el7",
+    "pkg.packager": "CentOS BuildSystem <http://bugs.centos.org>",
+    "pkg.requires": [
+      "perl(Exporter)",
+      "libc.so.6(GLIBC_2.6)(64bit)",
+      "libpthread.so.0(GLIBC_2.3.2)(64bit)",
+      "/bin/bash",
+      "perl(Perf::Trace::Core)",
+      "perl(Perf::Trace::Util)",
+      "perl(XSLoader)",
+      "perl(lib)",
+      "/bin/sh",
+      "libc.so.6()(64bit)",
+      "libc.so.6(GLIBC_2.11)(64bit)",
+      "libc.so.6(GLIBC_2.14)(64bit)",
+      "libc.so.6(GLIBC_2.2.5)(64bit)",
+      "libc.so.6(GLIBC_2.3)(64bit)",
+      "libc.so.6(GLIBC_2.3.4)(64bit)",
+      "libc.so.6(GLIBC_2.4)(64bit)",
+      "libm.so.6()(64bit)",
+      "libresolv.so.2()(64bit)",
+      "librt.so.1()(64bit)",
+      "librt.so.1(GLIBC_2.2.5)(64bit)",
+      "rtld(GNU_HASH)",
+      "libc.so.6(GLIBC_2.7)(64bit)",
+      "libc.so.6(GLIBC_2.8)(64bit)",
+      "libdl.so.2()(64bit)",
+      "libdl.so.2(GLIBC_2.2.5)(64bit)",
+      "libm.so.6(GLIBC_2.2.5)(64bit)",
+      "libz.so.1()(64bit)",
+      "libpthread.so.0()(64bit)",
+      "libpthread.so.0(GLIBC_2.2.5)(64bit)",
+      "bzip2",
+      "liblzma.so.5(XZ_5.0)(64bit)",
+      "libutil.so.1()(64bit)",
+      "libdw.so.1()(64bit)",
+      "libnuma.so.1(libnuma_1.1)(64bit)",
+      "liblzma.so.5()(64bit)",
+      "perl(warnings)",
+      "libslang.so.2()(64bit)",
+      "libslang.so.2(SLANG2)(64bit)",
+      "libpthread.so.0(GLIBC_2.3.4)(64bit)",
+      "libelf.so.1(ELFUTILS_1.5)(64bit)",
+      "libdw.so.1(ELFUTILS_0.122)(64bit)",
+      "libdw.so.1(ELFUTILS_0.126)(64bit)",
+      "libdw.so.1(ELFUTILS_0.127)(64bit)",
+      "libdw.so.1(ELFUTILS_0.130)(64bit)",
+      "libdw.so.1(ELFUTILS_0.143)(64bit)",
+      "libdw.so.1(ELFUTILS_0.158)(64bit)",
+      "libelf.so.1(ELFUTILS_1.3)(64bit)",
+      "libelf.so.1(ELFUTILS_1.6)(64bit)",
+      "/usr/bin/perl",
+      "perl(strict)",
+      "libdw.so.1(ELFUTILS_0.142)(64bit)",
+      "libdw.so.1(ELFUTILS_0.156)(64bit)",
+      "libdw.so.1(ELFUTILS_0.157)(64bit)",
+      "libc.so.6(GLIBC_2.17)(64bit)",
+      "libelf.so.1()(64bit)",
+      "libelf.so.1(ELFUTILS_1.0)(64bit)",
+      "libz.so.1(ZLIB_1.2.0)(64bit)",
+      "libcrypt.so.1()(64bit)",
+      "libnsl.so.1()(64bit)",
+      "libnuma.so.1()(64bit)",
+      "libnuma.so.1(libnuma_1.2)(64bit)",
+      "perl(POSIX)",
+      "/usr/bin/env",
+      "/usr/bin/python",
+      "/usr/bin/python2",
+      "libperl.so()(64bit)",
+      "libpython2.7.so.1.0()(64bit)",
+      "perl"
+    ],
+    "pkg.file-digests": [
+      [
+        "/usr/libexec/perf-core/scripts/perl/Perf-Trace-Util/lib/Perf/Trace/Context.pm",
+        "b80504391541c7667e962889837cba72961175c022ccd21fb97f74ac5f568fe9"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/Perf-Trace-Util/lib/Perf/Trace/Core.pm",
+        "34bad7b0145a9bb73fafaaf1462f746ea731fba3ce7a60980595db9d646bbe63"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/Perf-Trace-Util/lib/Perf/Trace/Util.pm",
+        "11739cb278c97b506992bb6b40b6231aa8a7bc5dd20d0664fdc3ec2616d598f5"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/bin/check-perf-trace-record",
+        "15e5e84e469337dfe0495f3bc60226da2153e96f042750f844654dfb7359933d"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/bin/failed-syscalls-record",
+        "58f7d5a744a606c9a390f6b8f188d213e47f7e20316288d13a92a340dd45663c"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/bin/failed-syscalls-report",
+        "bb4ff5158292e217d3aa05fc5c12da15691737d6532868dc7aebe7cdb74eaa1e"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/bin/rw-by-file-record",
+        "0eae702e9cc13d4e7bc2bf02b2275976cb2c914be611b6bcb062c5ced313be5f"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/bin/rw-by-file-report",
+        "f2baf63791942bdb40af66047487eca98e9ed03bb7419679e699036abf606a13"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/bin/rw-by-pid-record",
+        "03350e1781aa28a6642a808de70bf9dd0b765c478a103a6a9dfab11bffbf422a"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/bin/rw-by-pid-report",
+        "087f670ad8331e056b3bdfb6972d4cf73b15f9b11f87568e7487c6578c291152"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/bin/rwtop-record",
+        "03350e1781aa28a6642a808de70bf9dd0b765c478a103a6a9dfab11bffbf422a"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/bin/rwtop-report",
+        "b72892cec76a44b1d686463f2f881d9ad8f4b47bca5203e6f561a36648ba20ef"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/bin/wakeup-latency-record",
+        "9478b5fea5b18d8994151f58c78a6c8f111bdc4bf52210146c01b87ff28b17af"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/bin/wakeup-latency-report",
+        "0dbe8fbfbac8785ceea32941444f188a1dc38bf2cd0e851c4b923fd314937281"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/Core.py",
+        "2aa9b7f513835ab10a80b4de13e47c3194a5b3cbca6ed3c8c89750fd9335af84"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/SchedGui.py",
+        "9464635385bd72a80bcd543e61a29dfe19f0cc50a197574eee92302fe49533e1"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/Util.py",
+        "c78786606529ec44d11fa21214de9c557089decb47e0ca49d604be7df4c46536"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/compaction-times-record",
+        "0519d71609e353652738919c7178f05919320364e83c1b22924f4b942c30555e"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/compaction-times-report",
+        "836600a01075dd1b9fb4e442b994d6a4ba9a63d670651ccd7e1c33255ef90ec7"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/event_analyzing_sample-record",
+        "10db5e5f7bc6ba12086bc1e3cf630b109bba1e93035533a99409855c4db3f950"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/event_analyzing_sample-report",
+        "a2593ceb28815063c46ea30a77e6af5d94fb57acef8185bd01e6e2e576044116"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/export-to-postgresql-record",
+        "b45a762d771e5208bf10f0c0ac506bda4ccccba51679d7ad535120dd23219d4c"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/export-to-postgresql-report",
+        "b1e5d7b5b537c288069239602d8d59f46e41349305d335514eb488ac921ff7e6"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/export-to-sqlite-record",
+        "adfa585c17990dfb4dabfd3c29a4fe369a3ed8529a680662723ceb712f89712a"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/export-to-sqlite-report",
+        "a775904833e5274c3c903c59dee8d19aaf16c2d33967dc2cbc268bb8ddc0018c"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/failed-syscalls-by-pid-record",
+        "58f7d5a744a606c9a390f6b8f188d213e47f7e20316288d13a92a340dd45663c"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/failed-syscalls-by-pid-report",
+        "7d9e34f11c1fd26cf6c2e20e1f20fd15cde9b7d6b99ce4a76c728386f5ca0a29"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/futex-contention-record",
+        "8e4c0356a7131309b8098bfe0a37c3dab35bcfbbfc5bd5454e268e07cae02da8"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/futex-contention-report",
+        "060863026847a50f642183256626c034b69783b9470db7a8bf3d830bedcce685"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/intel-pt-events-record",
+        "0c855f7423b17befb61f4841fbe72ee147504a5d73cfbd5c0254e960a087a3c3"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/intel-pt-events-report",
+        "c30e3444be0d013278b9438bc1cf1184eebcb1847ea04b566298c78fd93cc9a6"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/mem-phys-addr-record",
+        "9b4d6d0a96c1f567ad43a2d6ab40aaadea936f73c0e68bd8860c7c3934774ca9"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/mem-phys-addr-report",
+        "5c3944d6138688e448668ae027f52b796f5ea57d79b63f0cb29e6465a82eb08c"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/net_dropmonitor-record",
+        "5d8edb679bb47c086fffb3f79d796a90338b760d32a4714f8c6fa2bbac4a05be"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/net_dropmonitor-report",
+        "cac152a0066f8a0f371c9cf0fa96f2e548db2b45017351fb7e384276894f33f2"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/netdev-times-record",
+        "899358892076ffecacd1142b9e0c53504e9ad70775929a2355d541e988e6e770"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/netdev-times-report",
+        "c5704a8b38ed3e5952d1b8bf777fc41e74c6c0db467e22149f768a8a74e58781"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/powerpc-hcalls-record",
+        "74c34842ab7faeb598ac367816325e1b68b87f7f4ade819b5ab5817c31412600"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/powerpc-hcalls-report",
+        "6eccb718f305dc19fc088943588a25b0dbe2745be65adb3f2fea3f59c0cc6412"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/sched-migration-record",
+        "df185404c8205d8b8491abeb4181777a297647a23cd918fc62480a63e7895c45"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/sched-migration-report",
+        "b2779a89f2a3effead6ca7fb68a87c9cd88a12bfecc18b34e175d08e1df21f89"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/sctop-record",
+        "7ddc18ccd4727f521e00a6c4b90253c6370133883c19f8ca322d4993cbd71b3c"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/sctop-report",
+        "d6ac4d0d683108c01785e9b44a01da4572c18650daedca0f340e5356ecd1ecbc"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/stackcollapse-record",
+        "c495f9827588e853da89d48b7369703ec532aed75a97bc7753017355608f0ffd"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/stackcollapse-report",
+        "159bfb92027a3a6346f6b00d8a7b175cc7a51d8b8b2b043608ccc876233490c6"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/syscall-counts-by-pid-record",
+        "7ddc18ccd4727f521e00a6c4b90253c6370133883c19f8ca322d4993cbd71b3c"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/syscall-counts-by-pid-report",
+        "b39c0032e6354787bd59d3672eb6100c65e4deef8ceb71baf4d0da7a60887c29"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/syscall-counts-record",
+        "7ddc18ccd4727f521e00a6c4b90253c6370133883c19f8ca322d4993cbd71b3c"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/bin/syscall-counts-report",
+        "deb2301b69ab465081f38ffed51caf4f12523ebafd3a3062498786b0c25af1d1"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-stat-C0",
+        "512a636a43b5c91198fc575c38a1c7ede0f9968c7ffadd2bf4de01b42c7dcfa6"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-stat-basic",
+        "c6bb96af679a10d74e67b88e39c4d4f7b780ee7dfcca755d88c27073165b6416"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-stat-default",
+        "857c1b3eb121f75609374559d04c726479c6347585efe0f69660b55f3db70bb6"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-stat-detailed-1",
+        "b8037d1cb821415c15bddf05c5e086f627e4eaa7178dec48d03a57e37bb50af2"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-stat-detailed-2",
+        "0f870716ee940acc118aa97c6066b4c7e7c0f44b44ad87d95661537b2ccab6f5"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-stat-detailed-3",
+        "a2467a327aee43beb86dcf7752b18da3a20aeed99d98f367df5bdc5b09cbff2b"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-stat-group",
+        "18e16bdc560b89e593b341801d210ef8de14cc3d52063a9d1e14bb81d1a175bc"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-stat-group1",
+        "1b214b94a694edc4e81126a322d04730ff4c3db7e40a570c6c746bb5abbc96aa"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-stat-no-inherit",
+        "689426fffee3019e3174e8dbe3cc9715570157ee353d8442ab9b324755dba9df"
+      ],
+      [
+        "/usr/share/perf-core/strace/groups/file",
+        "54184e46d9e69edf40f62babf205a906656c6a7b3f803bded371a956041135f2"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/README",
+        "7b6f4f43e67c42d0d2fb8fd2007333709990c2e7b04a703f637a1d8a5f605ee3"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/check-perf-trace.pl",
+        "62b81e82e58d1c628802a4c7e75fbae1d248dab7af633e7d7a24cc4869d54999"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/failed-syscalls.pl",
+        "aae1fb242ba5784583b72489f0ed757bc97d76a480f91b54095512863d527cd7"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/rw-by-file.pl",
+        "7808f55b618b93206e4ff0583800d33bc85d74fe26f7e1af3346ccf4a00c0790"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/rw-by-pid.pl",
+        "44e761eeb782a4849f2fc1a18238d37c3cf50b80221b4f4bce5b6e70e3f8f2d1"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/rwtop.pl",
+        "d8b0f98dc8f65e7bfb167fc68bee72db66f85861f4838db0a3e19dd86b61fe75"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/perl/wakeup-latency.pl",
+        "2b863ce37d3460ba50422925c503a863ca35a6d1eebd836c4a1f01cc5323999b"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/base-record",
+        "575e735b8696e9b96a56a0099c01c4db0181b8132830973b6081eac7b1d268cc"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/base-stat",
+        "81a96fba13d955fe3dee7fe2cded5bba5ecdc3ff9c9b352bd5bca276df1e8602"
+      ],
+      [
+        "/usr/libexec/perf-core/perf-with-kcore",
+        "16be0fcbc818e3bf58e75bed2837a7de93e69c84191ffb6c8c9db29b9b57bb9b"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-C0",
+        "73f2c391f5e8d0d66e7581757eb8aa4b275f0163e19cf47416547ec8be9e32e6"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-basic",
+        "031c4d942011e9b120b8797c9c7e2c1aecf9d4762fdae1fcbd0c1dc29fb99239"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-branch-any",
+        "ab3a9c9378fcbc7dc6f9665be47ba29a4f12c98b09b81e15b8cd6dc180eed2c5"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-branch-filter-any",
+        "5c4b4e2b11dbbb70e034f3b6a0b9805f2350bcc0f9ff50f47a4081afe49d6ba3"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-branch-filter-any_call",
+        "7584ce9e22dfa57a59f1cd63e6250cf1533ad1e0c8ef042a9b4daa93b7950c79"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-branch-filter-any_ret",
+        "21ec6dd77ca8d70a9fece860b540edea4ac11a593c2ded8d49c87952a40e5846"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-branch-filter-hv",
+        "4537f2b702abffd06b9cb4f556b216a47534ee4695a40dd0d6053cb77a9a8c4d"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-branch-filter-ind_call",
+        "18cbff81a05c9b8f8d6359ecbdcad085b786e628d9f9dc056f8061604e465a59"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-branch-filter-k",
+        "28a8201e2cb856693d88c19f1fc5f89d3e6e0c32e865f2502f18d0c4d8ee0325"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-branch-filter-u",
+        "8c4a06009e1f964e05d50bf08275a39066eeaf4c2404c1d6738ac454ae992d49"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-count",
+        "031aa24f14088ca49c81736f58e519e15879af54088d9c005bda10d76f6fc1d9"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-data",
+        "2dc397b245114a9b8397a52c8644df0dd5bf3b287bb1c8e2ab906defb0d4abca"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-freq",
+        "29728c4ddca798b69f3a81cde7c2fb798f8ca4f810da2409853bed05c73262e2"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-graph-default",
+        "0bb0bc90b49fee1ddc0eb5980dc5b0a6ad871378181d49ceb959f49b2f7ca924"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-graph-dwarf",
+        "c979be8266f97169fd025f594d98fdd03eb0f0332352197167e8ca5d3862a809"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-graph-fp",
+        "16f6a3906ff560b9ee9117d74cccfefc03345b3ad476c9b9474f573dc4573277"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-group",
+        "2317e74b8dc88d6095ad53a52093e9dae63b5a12412e0a500fd09fbc9edf1b11"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-group-sampling",
+        "03959486e4a2edabb62a07b9ca443b9fdf741be0e97a8f2ca5cf31b55091da59"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-group1",
+        "6758865da56a9bb6e981bbe1a460facf206ca789fbb8d87cdbc7e13c954af899"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-no-buffering",
+        "a1f3544a47a7496cbc3c88af5684f89010c56066c50cbf20e0c63e0d05b7c1f4"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-no-inherit",
+        "2ea588e4f2e657cab322014b6fb6065ae88c0d19bd5b698f07843856abe949e8"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-no-samples",
+        "23de69dfc856391c9e3491821fc3f4a13f426a6fe696399e68a582f6c88e4512"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-period",
+        "96a5cb253dcbd8ea32a9cc4832eba774236c949710b40e97466e1fac2b6b328b"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr/test-record-raw",
+        "127cff851304dc8209408fa4a2f927e948f3e5b59165f8705748ff4d57cb9ae9"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/shell/lib/probe.sh",
+        "cec47863e58112f5d2c2476c03ed32319bfa52af992b7f8cd228c2d3c2fb81da"
+      ],
+      [
+        "/usr/share/doc/perf-tip/tips.txt",
+        "1b4dea983ca5f61bcafc212257531c31c12b2e4c29e93b73646f979e93578cb0"
+      ],
+      [
+        "/etc/bash_completion.d/perf",
+        "2bed89675a623691e8d1d27669d534f89da5bf75aebdb5b6d3f92c345a2bd705"
+      ],
+      [
+        "/usr/bin/perf",
+        "4c4c6504831390448af9aa81dda990bff83653272bd9636fccf1955b04d4cc30"
+      ],
+      [
+        "/usr/lib64/libperf-jvmti.so",
+        "898b9f5b3ae75fd065d49f3846a50fa2c23fcd075acd1719aa2717c3e871ebc8"
+      ],
+      [
+        "/usr/lib64/traceevent/plugins/plugin_cfg80211.so",
+        "cddf6a3c17cf929d247f51c042ec9a208ec9463b0d9cea565310e11ddbe002e9"
+      ],
+      [
+        "/usr/lib64/traceevent/plugins/plugin_function.so",
+        "d8a10612e1ffa232ed8a4ef4053de12576cee253267ac5e5ba1646e3c5f04160"
+      ],
+      [
+        "/usr/lib64/traceevent/plugins/plugin_hrtimer.so",
+        "5491ecaa988c0cf59fb02ebd8b155d0e43a97e6afb2d77cb6c752ba5da76dff4"
+      ],
+      [
+        "/usr/lib64/traceevent/plugins/plugin_jbd2.so",
+        "ffd86778111ad3c8dd253dc67a554ae7e08e12b91ff8e23355ea8be122079185"
+      ],
+      [
+        "/usr/lib64/traceevent/plugins/plugin_kmem.so",
+        "777979645a2e14916490e81aaee91f1c406fe17564cfa862e3eb02d11e24e6f3"
+      ],
+      [
+        "/usr/lib64/traceevent/plugins/plugin_kvm.so",
+        "26e04584faeef0610ae10e17ca6b8609d5f5fd00c51c0957ec3682cd59745659"
+      ],
+      [
+        "/usr/lib64/traceevent/plugins/plugin_mac80211.so",
+        "bf98aafdadb6fa2f1d63e4ccba8b57b798a74f29e035be3f2332342ec0dab62e"
+      ],
+      [
+        "/usr/lib64/traceevent/plugins/plugin_sched_switch.so",
+        "e5bf82e4d6e80ee70e9e781e53f510fe656bb2b4a668a38230f6ae070f799eeb"
+      ],
+      [
+        "/usr/lib64/traceevent/plugins/plugin_scsi.so",
+        "bb60a38cac2fb760e7387a8f39b0f736fa3db5933c38fe188991d2d48021d4bb"
+      ],
+      [
+        "/usr/lib64/traceevent/plugins/plugin_xen.so",
+        "43183b508f00cabf4aaacec6c1163cf43bc73a0d7abd57b94c711887da5b7e20"
+      ],
+      [
+        "/usr/libexec/perf-core/perf-archive",
+        "49df15f95fe12bf2d83871e8e1214c93f3bf01cacc98ecbc2049d342634a77f0"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/Core.pyc",
+        "ddef8b0a8ca41cb921e643167c9ba9fef41c27bcbbd35944bc91645ade6be725"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/Core.pyo",
+        "ddef8b0a8ca41cb921e643167c9ba9fef41c27bcbbd35944bc91645ade6be725"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/EventClass.py",
+        "c9bdc65deab6a9403e2614533b1b173e23f8b64625e117508fb3e292d17a4ca2"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/EventClass.pyc",
+        "00f5d23a482d25811a038e1c51e3122906c3bf89c79fedb78d4ee8ed49d44dac"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/EventClass.pyo",
+        "00f5d23a482d25811a038e1c51e3122906c3bf89c79fedb78d4ee8ed49d44dac"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/SchedGui.pyc",
+        "ae246ff46fddb8bf3ff471f5e141026d6be550414c2d6ca4801a4ec90f3a0641"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/SchedGui.pyo",
+        "ae246ff46fddb8bf3ff471f5e141026d6be550414c2d6ca4801a4ec90f3a0641"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/Util.pyc",
+        "ecf0d3829351b29ed2400777d7ac545f28aaada76cb10daed405020d653ed471"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/Util.pyo",
+        "ecf0d3829351b29ed2400777d7ac545f28aaada76cb10daed405020d653ed471"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/check-perf-trace.py",
+        "493f572d46820426cb7c76d34827907def5996a1a8f06df3fdca31321d54f2d9"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/check-perf-trace.pyc",
+        "d9d3690b55b763555b5016eadfd207748413fec775ed3e6585329a1bed8dcd52"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/check-perf-trace.pyo",
+        "d9d3690b55b763555b5016eadfd207748413fec775ed3e6585329a1bed8dcd52"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/compaction-times.py",
+        "527aa508a4d9b1a62d8f25a40302979705307a4d2a7213feaf77f7d50cf7f354"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/compaction-times.pyc",
+        "95221ec72dadc8ba8dde12073c2ff97e2fcf5479c284d4e4bd64f66a1c18e3ac"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/compaction-times.pyo",
+        "95221ec72dadc8ba8dde12073c2ff97e2fcf5479c284d4e4bd64f66a1c18e3ac"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/event_analyzing_sample.py",
+        "45b082ca21d24bc99509747a51e0aabbe8e8924677847e7ebab8de485eb8b664"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/event_analyzing_sample.pyc",
+        "cb498777448a15427ad61d45edff9356b089e9db2a8fc7e38afd72a810119d57"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/event_analyzing_sample.pyo",
+        "cb498777448a15427ad61d45edff9356b089e9db2a8fc7e38afd72a810119d57"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/export-to-postgresql.py",
+        "5e72a52b54da3e7fa7288d89a2442bb2b30622b40b7c426a723f912dc01b23dc"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/export-to-postgresql.pyc",
+        "07a069fc803a75e8b29c1952e6c15870a3178e886a13c223c476316fb484d787"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/export-to-postgresql.pyo",
+        "07a069fc803a75e8b29c1952e6c15870a3178e886a13c223c476316fb484d787"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/export-to-sqlite.py",
+        "b403cf8a193ec6f9809a494c2aa9ef218eb5dacc8ddb3d38bb420125ebb81e04"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/export-to-sqlite.pyc",
+        "298b62e96d66476532c12c5bccf523858decfcb6b07c09381b315ca8dc2e70be"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/export-to-sqlite.pyo",
+        "298b62e96d66476532c12c5bccf523858decfcb6b07c09381b315ca8dc2e70be"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/exported-sql-viewer.py",
+        "63639ca47e710717fdd1a940fe03ec8974c44d6c0051b0cd192ee5ea2586a729"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/exported-sql-viewer.pyc",
+        "b506edea0fdf04c54db603ddf48a3f452681bbbb7c9af1bee6cd337b6f5a9bb3"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/exported-sql-viewer.pyo",
+        "b506edea0fdf04c54db603ddf48a3f452681bbbb7c9af1bee6cd337b6f5a9bb3"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/failed-syscalls-by-pid.py",
+        "7701b815c219d1e85593ee5e73c4c36e166a3bfe704383b38551dab97a6dc563"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/failed-syscalls-by-pid.pyc",
+        "bfdef20aa978a8058b82c8f2bc1560ad990a972322b1798f5fa28e30c62886fe"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/failed-syscalls-by-pid.pyo",
+        "bfdef20aa978a8058b82c8f2bc1560ad990a972322b1798f5fa28e30c62886fe"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/futex-contention.py",
+        "bf18480360e9fb135bb5aaeae7bd6081146f0f5cf0364dff925c62329983e88c"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/futex-contention.pyc",
+        "aad589c8b623760d9a697bf6c11a91732908b8a9c1aa3cae5e543d724d4cf528"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/futex-contention.pyo",
+        "aad589c8b623760d9a697bf6c11a91732908b8a9c1aa3cae5e543d724d4cf528"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/intel-pt-events.py",
+        "c184af5b2b1cde6485f9328c3d69a0364c4cf7960754becaffdc2d62d45610ff"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/intel-pt-events.pyc",
+        "e127ba945161269d6d110ee572cf2441fdd00f77a37a9bceb143ac6caf187f7c"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/intel-pt-events.pyo",
+        "e127ba945161269d6d110ee572cf2441fdd00f77a37a9bceb143ac6caf187f7c"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/mem-phys-addr.py",
+        "cd1e9fca73e6f1c6b34b557c005bfcaa6f2c6a441ea1af99fc5f0fba31e43178"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/mem-phys-addr.pyc",
+        "73390c59f22a909718196758969fa0da90c7491e1455579b97ea7e567773e03a"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/mem-phys-addr.pyo",
+        "73390c59f22a909718196758969fa0da90c7491e1455579b97ea7e567773e03a"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/net_dropmonitor.py",
+        "334684daec24ea66e24ace548dc9acb42740268a0d7a28e9f2bfb2d0333fb5c4"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/net_dropmonitor.pyc",
+        "a64a3109fb483c7d59649282254bed53f2da6816ff4776b73fec94b44a38248f"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/net_dropmonitor.pyo",
+        "a64a3109fb483c7d59649282254bed53f2da6816ff4776b73fec94b44a38248f"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/netdev-times.py",
+        "edc86a7f7bcb1654eb7594936ee8ab4ec052e1f57970b15d9b850adadfd4d924"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/netdev-times.pyc",
+        "a98b10fa09b7b2ef60b64df13370d6a3c7eb7708205c4914ca39fea337d56219"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/netdev-times.pyo",
+        "a98b10fa09b7b2ef60b64df13370d6a3c7eb7708205c4914ca39fea337d56219"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/powerpc-hcalls.py",
+        "61456144a345d775339fb8704684db05053205a876e9b924559c05484ffcbdf0"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/powerpc-hcalls.pyc",
+        "f456ce3c4e4ecff82ce0fe092c94425ce7a87c08e240ed23dae12ebebe61756f"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/powerpc-hcalls.pyo",
+        "f456ce3c4e4ecff82ce0fe092c94425ce7a87c08e240ed23dae12ebebe61756f"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/sched-migration.py",
+        "de753143473febbfb71fb327d08f27fc349b0c1a6ed0551e0bc2636331d1e1fd"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/sched-migration.pyc",
+        "638527329584f3523a05fbad210e9d4b946892415aff39254ce9668c794ed365"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/sched-migration.pyo",
+        "638527329584f3523a05fbad210e9d4b946892415aff39254ce9668c794ed365"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/sctop.py",
+        "3a5e0effdb03d95aa4938dae0dcf9813d4a3d74d8f5f28df564fb909db763a97"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/sctop.pyc",
+        "ed8ccbf3b9c23ec003f12cc064239baa42fd17e455666f15c1216d284e0d4ccd"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/sctop.pyo",
+        "ed8ccbf3b9c23ec003f12cc064239baa42fd17e455666f15c1216d284e0d4ccd"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/stackcollapse.py",
+        "af6cb0d70a003961ee5ef7bedc0a566d727fbd949ff2ebd3bf8032059aceae9d"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/stackcollapse.pyc",
+        "a10deb47c4092fee10b059c2f95436f51275334ef2f1d429837464229dffec26"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/stackcollapse.pyo",
+        "a10deb47c4092fee10b059c2f95436f51275334ef2f1d429837464229dffec26"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/stat-cpi.py",
+        "16a0918c2da65f3f2ec50f5a2ef1fab528ebebca877aa3756a29e55a86a6f119"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/stat-cpi.pyc",
+        "4d8ebe46afe2ce2c9eb0f6cb962bbeb67637786d6b8c7e9219e73f41c5f6ada3"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/stat-cpi.pyo",
+        "4d8ebe46afe2ce2c9eb0f6cb962bbeb67637786d6b8c7e9219e73f41c5f6ada3"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/syscall-counts-by-pid.py",
+        "ca9e299bc3f2f42ce62970fe159ac46483c90d3346c39f25dd43e2dd31e9149c"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/syscall-counts-by-pid.pyc",
+        "b18ae0122541169c804de9088e0c4a101eb8e4dfc906fa6c65f92bcc2b40ed60"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/syscall-counts-by-pid.pyo",
+        "b18ae0122541169c804de9088e0c4a101eb8e4dfc906fa6c65f92bcc2b40ed60"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/syscall-counts.py",
+        "7e7958339b1d01a85c358ae6954e22835718225b8dacd7ce2624759dca68623d"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/syscall-counts.pyc",
+        "2fa6744692168389fb33a14f843880be55e1046a1adf59310d77cda3fe92adc2"
+      ],
+      [
+        "/usr/libexec/perf-core/scripts/python/syscall-counts.pyo",
+        "2fa6744692168389fb33a14f843880be55e1046a1adf59310d77cda3fe92adc2"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr.py",
+        "12203269b4a682292aab90389ead1f9dbbf8f3ee954cc2c491e294678c0d32d2"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr.pyc",
+        "57b58a7cd43b9977bdf7e53138f7260b0dca8f5cfa5fb86cd0a754a94221fcba"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/attr.pyo",
+        "57b58a7cd43b9977bdf7e53138f7260b0dca8f5cfa5fb86cd0a754a94221fcba"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/shell/lib/probe_vfs_getname.sh",
+        "b113bcae6ab44d494b91037e2d7a0c4223e9e304188c26cd794590041e21fa1c"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/shell/probe_vfs_getname.sh",
+        "effb3c85d0b695d14a09a6716f76dfec3823a70ed09519034c5e527f688da54b"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/shell/record+probe_libc_inet_pton.sh",
+        "65bba27ea3cf2e648c9b52c9893bf83e54ca5d86d8b50a63a721da6377026edc"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/shell/record+script_probe_vfs_getname.sh",
+        "ae7bf5bdede62e0d6dc51e9f6fa88e7732ce322324f54c27e2405987119ff936"
+      ],
+      [
+        "/usr/libexec/perf-core/tests/shell/trace+probe_vfs_getname.sh",
+        "3db9d64e506df6a13c0cc318363d0c6ce1c58a3d158a3e6632ca83034ef23ee3"
+      ],
+      [
+        "/usr/share/man/man1/perf-annotate.1.gz",
+        "b7e7f95751c41b12d813aced0c8241a1a41eb03540c8be5f5869785b1795f1d6"
+      ],
+      [
+        "/usr/share/man/man1/perf-archive.1.gz",
+        "fea20d77984f4f314664254214c8d568ee5bb0a4d552e6ae2c9112fbc5d7f693"
+      ],
+      [
+        "/usr/share/man/man1/perf-bench.1.gz",
+        "5c7164b0f8170756c390b415501f5404a271b76742dd5fc0f519a5ffab37f2fe"
+      ],
+      [
+        "/usr/share/man/man1/perf-buildid-cache.1.gz",
+        "54b30eb6b4439e6f7ba3dcef741a6aa4aa72d576f5fca2ea20dba475e2461f77"
+      ],
+      [
+        "/usr/share/man/man1/perf-buildid-list.1.gz",
+        "9c1fe28a0496ada69e282c92b829be4e56cfdadb5f42a049665e8d508f6774b0"
+      ],
+      [
+        "/usr/share/man/man1/perf-c2c.1.gz",
+        "4c85936e65713138de21d48d1632da8dc1f76a45bbe4da685af9e3d88b9f76cf"
+      ],
+      [
+        "/usr/share/man/man1/perf-config.1.gz",
+        "e5b7b4c7e8f124f904d47e53697c1375722a411b3844d67d608259a2253de506"
+      ],
+      [
+        "/usr/share/man/man1/perf-data.1.gz",
+        "4f7ba866a770abd37d4a067fadcca2ab503f19a95beaee91381e15c3b4002527"
+      ],
+      [
+        "/usr/share/man/man1/perf-diff.1.gz",
+        "fd86c366a7f3f25c76e6caca0c3f264e473bf6ae2060163769dc903df2b31051"
+      ],
+      [
+        "/usr/share/man/man1/perf-evlist.1.gz",
+        "d52d1e451af3d5ff57f33af7d66b2f315fd61e890d46237acf599938bc1af84a"
+      ],
+      [
+        "/usr/share/man/man1/perf-ftrace.1.gz",
+        "59a213314a62ce9cb2f9dbbc9f8c6ee57a16d08752edc895697117c597ba9516"
+      ],
+      [
+        "/usr/share/man/man1/perf-help.1.gz",
+        "0bf8ae6313cbbc1cc6449b34e96cdf9a932eae75d731969b43868f3a073042b2"
+      ],
+      [
+        "/usr/share/man/man1/perf-inject.1.gz",
+        "4b40fdaa5d5d0ba7244c483e04dde8dfe478776ffa9b856531cc148d03d2e618"
+      ],
+      [
+        "/usr/share/man/man1/perf-kallsyms.1.gz",
+        "e7734c3f38711afd97162606b130742ad7f53927dacbfd3b0db2c4e0ed160217"
+      ],
+      [
+        "/usr/share/man/man1/perf-kmem.1.gz",
+        "8547fffa81d7601b6e2514749c0d079e60469e4fcd1ee395f236c4c0f8dc810b"
+      ],
+      [
+        "/usr/share/man/man1/perf-kvm.1.gz",
+        "d0d23c8e816a4748a81469bd0b7e23bdf18ef7d7b48e151750569571954fe4d8"
+      ],
+      [
+        "/usr/share/man/man1/perf-list.1.gz",
+        "a026dac74a9042326813edd736b58b04f3b20cf7adab767e5c0e626a6a9abbc3"
+      ],
+      [
+        "/usr/share/man/man1/perf-lock.1.gz",
+        "018634e0c11ac2c402d6b262098d11ab1501571ae234486d62bf2612222fa92c"
+      ],
+      [
+        "/usr/share/man/man1/perf-mem.1.gz",
+        "35818d3ad416ebccaf44d55b90276ffb1ed68e086f8cc420654772d02219b81b"
+      ],
+      [
+        "/usr/share/man/man1/perf-probe.1.gz",
+        "1946409359981abe907682788d8b2bff01c12c33bec3ae0c00e621879c1dd72e"
+      ],
+      [
+        "/usr/share/man/man1/perf-record.1.gz",
+        "6ca4c851c618b9a9d7950090d83036b6aabc026ced0341da06559a9dc5ac1581"
+      ],
+      [
+        "/usr/share/man/man1/perf-report.1.gz",
+        "c3164266f4465c2e737538244db5fe6815badfe80f956e655d06622e8289f223"
+      ],
+      [
+        "/usr/share/man/man1/perf-sched.1.gz",
+        "65c7f40a910247c45e9ab52cbf662f334aecf76c3e307a0958205f580353d1c2"
+      ],
+      [
+        "/usr/share/man/man1/perf-script-perl.1.gz",
+        "70e19a58f365a28b21c50dcea70161b672ff547d0288b6c85a2b38bbce484b99"
+      ],
+      [
+        "/usr/share/man/man1/perf-script-python.1.gz",
+        "c050292c8e0f4c83a05099ead665941d80eb04029b129e8c6e06a634373d750e"
+      ],
+      [
+        "/usr/share/man/man1/perf-script.1.gz",
+        "0a61b5831201afda4a868c166dfe6d25787ce2ca37c43b38627598db233a8857"
+      ],
+      [
+        "/usr/share/man/man1/perf-stat.1.gz",
+        "cd2c4aab9a0c4c69c029db932f51df88b5b401aa07cd67c37a7c40c89d218d02"
+      ],
+      [
+        "/usr/share/man/man1/perf-test.1.gz",
+        "92bf836ab1ad3e61f9b95182bffd536c173afba22f7e56218484d4e5d4017f58"
+      ],
+      [
+        "/usr/share/man/man1/perf-timechart.1.gz",
+        "3fba0630a80dd332ecf29fccb917a0f1d26d9a8755455483cfb20b82b0068caa"
+      ],
+      [
+        "/usr/share/man/man1/perf-top.1.gz",
+        "6207731e58f2e0806bf4cc9bc828b34cadcd71b95b0912dca39b13f9c9d81d66"
+      ],
+      [
+        "/usr/share/man/man1/perf-trace.1.gz",
+        "7640538d5c4f7a3ec5f6adb85e131021d8a3d978070ec639448e872ce430c6b3"
+      ],
+      [
+        "/usr/share/man/man1/perf-version.1.gz",
+        "191742180aa0b2e36de2145959584d2197ec4c941557cb7a4c16c0f66b93f548"
+      ],
+      [
+        "/usr/share/man/man1/perf.1.gz",
+        "02a3eb78c39ce7f2ed44a67b782e2b9d22a2ce1cc3b29ed0f20d36b20307c7e9"
+      ]
+    ],
+    "pkg.sha1-header": "074fdf1c8e57529faab6e99dd1067b3f3c617731",
+    "pkg.license": {
+      "files": [
+        "*"
+      ],
+      "license": "GPLv2"
+    },
+    "pkg.platform": "x86_64-redhat-linux-gnu",
+    "size": 10123956,
+    "pkg.os": "linux",
+    "pkg.digest-alg": "sha256",
+    "pkg.vendor": "CentOS",
+    "filetype.rpm-pkg": "True",
+    "package_name": "",
+    "filename": "perf-3.10.0-1160.el7.x86_64.rpm",
+    "package_files": [
+      {
+        "metadata.name": "./usr/lib64/traceevent/plugins/plugin_mac80211.so",
+        "gene_count.genes_v1_3_0": 12,
+        "id": "file:bf98aafdadb6fa2f1d63e4ccba8b57b798a74f29e035be3f2332342ec0dab62e"
+      },
+      {
+        "metadata.name": "./usr/lib64/traceevent/plugins/plugin_function.so",
+        "gene_count.genes_v1_3_0": 19,
+        "id": "file:d8a10612e1ffa232ed8a4ef4053de12576cee253267ac5e5ba1646e3c5f04160"
+      },
+      {
+        "metadata.name": "./usr/lib64/traceevent/plugins/plugin_cfg80211.so",
+        "gene_count.genes_v1_3_0": 5,
+        "id": "file:cddf6a3c17cf929d247f51c042ec9a208ec9463b0d9cea565310e11ddbe002e9"
+      },
+      {
+        "metadata.name": "./usr/lib64/traceevent/plugins/plugin_sched_switch.so",
+        "gene_count.genes_v1_3_0": 15,
+        "id": "file:e5bf82e4d6e80ee70e9e781e53f510fe656bb2b4a668a38230f6ae070f799eeb"
+      },
+      {
+        "metadata.name": "./usr/lib64/traceevent/plugins/plugin_jbd2.so",
+        "gene_count.genes_v1_3_0": 7,
+        "id": "file:ffd86778111ad3c8dd253dc67a554ae7e08e12b91ff8e23355ea8be122079185"
+      },
+      {
+        "metadata.name": "./usr/lib64/traceevent/plugins/plugin_hrtimer.so",
+        "gene_count.genes_v1_3_0": 9,
+        "id": "file:5491ecaa988c0cf59fb02ebd8b155d0e43a97e6afb2d77cb6c752ba5da76dff4"
+      },
+      {
+        "metadata.name": "./usr/lib64/traceevent/plugins/plugin_xen.so",
+        "gene_count.genes_v1_3_0": 7,
+        "id": "file:43183b508f00cabf4aaacec6c1163cf43bc73a0d7abd57b94c711887da5b7e20"
+      },
+      {
+        "metadata.name": "./usr/lib64/traceevent/plugins/plugin_kvm.so",
+        "gene_count.genes_v1_3_0": 24,
+        "id": "file:26e04584faeef0610ae10e17ca6b8609d5f5fd00c51c0957ec3682cd59745659"
+      },
+      {
+        "metadata.name": "./usr/lib64/traceevent/plugins/plugin_scsi.so",
+        "gene_count.genes_v1_3_0": 18,
+        "id": "file:bb60a38cac2fb760e7387a8f39b0f736fa3db5933c38fe188991d2d48021d4bb"
+      },
+      {
+        "metadata.name": "./usr/lib64/traceevent/plugins/plugin_kmem.so",
+        "gene_count.genes_v1_3_0": 10,
+        "id": "file:777979645a2e14916490e81aaee91f1c406fe17564cfa862e3eb02d11e24e6f3"
+      },
+      {
+        "metadata.name": "./usr/lib64/libperf-jvmti.so",
+        "gene_count.genes_v1_3_0": 50,
+        "id": "file:898b9f5b3ae75fd065d49f3846a50fa2c23fcd075acd1719aa2717c3e871ebc8"
+      }
+    ]
+  },
+  "results": [
+    {
+      "id": "file:898b9f5b3ae75fd065d49f3846a50fa2c23fcd075acd1719aa2717c3e871ebc8",
+      "similarity": 0.34,
+      "jaccard_distance": 0.66,
+      "filename": "./usr/lib64/libperf-jvmti.so",
+      "package_name": "perf",
+      "matches": {
+        "match_count": 50,
+        "match_ratio": "50/148",
+        "gene_counts": "148,50",
+        "metadata": {},
+        "match_details": []
+      },
+      "dist_ssdeep": 1,
+      "sha256": "898b9f5b3ae75fd065d49f3846a50fa2c23fcd075acd1719aa2717c3e871ebc8"
+    },
+    {
+      "id": "file:4ea0d05b400e742b643e4bcf14c4dfeb288d6501bb08d2a5ff8ba1f5bc4811a2",
+      "similarity": 0.16,
+      "jaccard_distance": 0.84,
+      "filename": "./usr/lib64/libperf-jvmti.so",
+      "package_name": "",
+      "matches": {
+        "match_count": 29,
+        "match_ratio": "29/176",
+        "gene_counts": "148,57",
+        "metadata": {},
+        "match_details": []
+      },
+      "dist_ssdeep": 1,
+      "sha256": "4ea0d05b400e742b643e4bcf14c4dfeb288d6501bb08d2a5ff8ba1f5bc4811a2"
+    },
+    {
+      "id": "file:26e04584faeef0610ae10e17ca6b8609d5f5fd00c51c0957ec3682cd59745659",
+      "similarity": 0.16,
+      "jaccard_distance": 0.84,
+      "filename": "./usr/lib64/traceevent/plugins/plugin_kvm.so",
+      "package_name": "perf",
+      "matches": {
+        "match_count": 24,
+        "match_ratio": "24/148",
+        "gene_counts": "148,24",
+        "metadata": {},
+        "match_details": []
+      },
+      "dist_ssdeep": 1,
+      "sha256": "26e04584faeef0610ae10e17ca6b8609d5f5fd00c51c0957ec3682cd59745659"
+    },
+    {
+      "id": "file:255da219cfc0961118aaa87cf3e6fff4557b723276e7da31a832214e00464ce4",
+      "similarity": 0.16,
+      "jaccard_distance": 0.84,
+      "filename": "./usr/sbin/automount",
+      "package_name": "autofs",
+      "matches": {
+        "match_count": 23,
+        "match_ratio": "23/148",
+        "gene_counts": "148,23",
+        "metadata": {},
+        "match_details": []
+      },
+      "dist_ssdeep": 1,
+      "sha256": "255da219cfc0961118aaa87cf3e6fff4557b723276e7da31a832214e00464ce4"
+    },
+    {
+      "id": "file:3d0ab908cd983cb6ad2a8ffbe77b8073b7c7b52feeb14cca9c62854e74043895",
+      "similarity": 0.15,
+      "jaccard_distance": 0.85,
+      "filename": "./usr/sbin/tc",
+      "package_name": "iproute-tc",
+      "matches": {
+        "match_count": 22,
+        "match_ratio": "22/148",
+        "gene_counts": "148,22",
+        "metadata": {},
+        "match_details": []
+      },
+      "dist_ssdeep": 1,
+      "sha256": "3d0ab908cd983cb6ad2a8ffbe77b8073b7c7b52feeb14cca9c62854e74043895"
+    }
+  ],
+  "stats": {
+    "main_query_time": 16.84749150276184,
+    "dist_compute_time": 1.138512134552002,
+    "result_prep_time": 0.057535409927368164,
+    "init_prep_time": 0.0075070858001708984
+  }
+}

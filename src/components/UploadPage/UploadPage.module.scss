@@ -1,0 +1,22 @@
+.centeredForm {
+    // position: absolute;
+    // top: calc(45%);
+    // left: calc(45%);
+    align-items: center;
+    margin-top: 16px;
+    background-color: #25252500;
+
+    :global(.cds--form-item) {
+        align-items: center;
+    }
+}
+
+.homePage {
+    margin-left: 0px;
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+.fudc {
+    min-width: 320px;
+}

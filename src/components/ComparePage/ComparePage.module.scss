@@ -1,0 +1,81 @@
+/**
+  * Copyright IBM Corp. 2022, 2023
+  *
+  * This source code is licensed under the Apache-2.0 license found in the
+  * LICENSE file in the root directory of this source tree.
+  *
+  */
+
+.comparePageHeader {
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 16px;
+    text-align: left;
+}
+
+.compareETSpan {
+    margin-top: 16px;
+    margin-left: 64px;
+    padding-left: 32px;
+}
+
+.compareETFile {
+    min-width: 150px;
+    width: 150px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: grid;
+    padding-left: 32px;
+    margin-right: 16px;
+}
+
+.compareSearchColumn {
+    min-width: 150px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.compareUploadColumn {
+    min-width: 320px;
+    width: 320px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: grid;
+}
+
+.compareResetColumn {
+    min-width: 150px;
+    width: 150px;
+    display: grid;
+    // position: relative;
+    // left: -170px;
+}
+
+.compareSearchButton {
+    margin-left: 0px;
+    min-width: 117px;
+}
+
+.compareP32x16 {
+    padding-left: 32px;
+    padding-right: 16px;
+    min-width: 1180px;
+}
+
+.compareP64x16 {
+    padding-left: 64px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+}
+
+.resetButton {
+    position: relative;
+    top: 0px;
+}
+
+.progressBoxDiv {
+    margin-left: 32px;
+    margin-right: 16px;
+    min-width: 288px;
+    width: 288px;
+}

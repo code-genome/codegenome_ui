@@ -1,0 +1,11 @@
+.venv/
+node_modules/
+package.old.json
+static
+foo.json
+TODOs.md
+.DS_Store
+coverage/
+# Ignore files produced by the build process for cypress testing.
+cypress/fixtures/*.jst
+cypress/fixtures/*.txt

@@ -1,0 +1,820 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2023-04-18T13:45:07+00:00",
+    "tools": [
+      {
+        "vendor": "IBM Research",
+        "name": "Code Genome",
+        "version": "0.0.3"
+      }
+    ],
+    "properties": [
+      {
+        "name": "subtype",
+        "value": "package"
+      },
+      {
+        "name": "packageType",
+        "value": "rpm-pkg"
+      }
+    ],
+    "supplier": {
+      "name": "CentOS",
+      "url": [],
+      "contact": []
+    },
+    "component": {
+      "type": "file",
+      "mime-type": "application/octet-stream",
+      "bom-ref": "file:d81e6ad3a689839ef620ae3e5c932a9d0f5ef9bcd3f88d2e10f029ceb30a4f23",
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "perf",
+      "version": "3.10.0",
+      "description": "",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d81e6ad3a689839ef620ae3e5c932a9d0f5ef9bcd3f88d2e10f029ceb30a4f23"
+        }
+      ],
+      "licenses": [],
+      "copyright": "",
+      "cpe": "",
+      "purl": "pkg:rpm/CentOS/perf@3.10.0?arch=x86_64&release=1160.el7",
+      "externalReferences": [],
+      "components": [],
+      "properties": [
+        {
+          "name": "ssdeep",
+          "value": "49152:+QpR8UO+s4gNFf6BvrKhBu0XmXMefSZfPe5S3c1t6i5+UxKdNuiHynxnnalSUfxQ:bR8/JA8b3inyU4fBePNgYyEKh1y"
+        },
+        {
+          "name": "size",
+          "value": "10123956"
+        },
+        {
+          "name": "full_name",
+          "value": "perf-3.10.0-1160.el7.x86_64.rpm"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.rpm-pkg"
+        }
+      ],
+      "supplier": {
+        "name": "CentOS",
+        "url": [],
+        "contact": []
+      }
+    },
+    "licenses": []
+  },
+  "services": [],
+  "externalReferences": [],
+  "dependencies": [
+    {
+      "ref": "file:d81e6ad3a689839ef620ae3e5c932a9d0f5ef9bcd3f88d2e10f029ceb30a4f23",
+      "dependsOn": []
+    }
+  ],
+  "compositions": [],
+  "vulnerabilities": [],
+  "components": [
+    {
+      "type": "file",
+      "mime-type": "application/octet-stream",
+      "bom-ref": "file:d81e6ad3a689839ef620ae3e5c932a9d0f5ef9bcd3f88d2e10f029ceb30a4f23",
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "perf",
+      "version": "3.10.0",
+      "description": "",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d81e6ad3a689839ef620ae3e5c932a9d0f5ef9bcd3f88d2e10f029ceb30a4f23"
+        }
+      ],
+      "licenses": [],
+      "copyright": "",
+      "cpe": "",
+      "purl": "pkg:rpm/CentOS/perf@3.10.0?arch=x86_64&release=1160.el7",
+      "externalReferences": [],
+      "properties": [
+        {
+          "name": "ssdeep",
+          "value": "49152:+QpR8UO+s4gNFf6BvrKhBu0XmXMefSZfPe5S3c1t6i5+UxKdNuiHynxnnalSUfxQ:bR8/JA8b3inyU4fBePNgYyEKh1y"
+        },
+        {
+          "name": "size",
+          "value": "10123956"
+        },
+        {
+          "name": "full_name",
+          "value": "perf-3.10.0-1160.el7.x86_64.rpm"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.rpm-pkg"
+        }
+      ],
+      "supplier": {
+        "name": "CentOS",
+        "url": [],
+        "contact": []
+      }
+    },
+    {
+      "type": "file",
+      "mime-type": "application/binary.elf",
+      "bom-ref": "file:898b9f5b3ae75fd065d49f3846a50fa2c23fcd075acd1719aa2717c3e871ebc8",
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "libperf-jvmti.so",
+      "version": "3.10.0",
+      "description": "",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "898b9f5b3ae75fd065d49f3846a50fa2c23fcd075acd1719aa2717c3e871ebc8"
+        }
+      ],
+      "licenses": [],
+      "copyright": "",
+      "cpe": "",
+      "purl": "pkg:rpm/CentOS/perf@3.10.0?arch=x86_64&release=1160.el7",
+      "externalReferences": [],
+      "properties": [
+        {
+          "name": "ssdeep",
+          "value": "384:i77nZCwarCs9g7P+766CLNklxXE/Xxw95ue8rsV:iOh9oxRklNE/Bxm"
+        },
+        {
+          "name": "size",
+          "value": "22840"
+        },
+        {
+          "name": "full_name",
+          "value": "./usr/lib64/libperf-jvmti.so"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.abi-sysv"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-shared-object"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-file"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.arch-x86_64"
+        },
+        {
+          "name": "package_name",
+          "value": "perf"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "mime-type": "application/binary.elf",
+      "bom-ref": "file:777979645a2e14916490e81aaee91f1c406fe17564cfa862e3eb02d11e24e6f3",
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "plugin_kmem.so",
+      "version": "3.10.0",
+      "description": "",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "777979645a2e14916490e81aaee91f1c406fe17564cfa862e3eb02d11e24e6f3"
+        }
+      ],
+      "licenses": [],
+      "copyright": "",
+      "cpe": "",
+      "purl": "pkg:rpm/CentOS/perf@3.10.0?arch=x86_64&release=1160.el7",
+      "externalReferences": [],
+      "properties": [
+        {
+          "name": "ssdeep",
+          "value": "48:RTr8dBIPieV6WTrlqo/Yd9g/qO03jTtCuVzPK8al:RX8T3W6WgFQ/b03HtCuVzo"
+        },
+        {
+          "name": "size",
+          "value": "5304"
+        },
+        {
+          "name": "full_name",
+          "value": "./usr/lib64/traceevent/plugins/plugin_kmem.so"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.abi-sysv"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-shared-object"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-file"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.arch-x86_64"
+        },
+        {
+          "name": "package_name",
+          "value": "perf"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "mime-type": "application/binary.elf",
+      "bom-ref": "file:bb60a38cac2fb760e7387a8f39b0f736fa3db5933c38fe188991d2d48021d4bb",
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "plugin_scsi.so",
+      "version": "3.10.0",
+      "description": "",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "bb60a38cac2fb760e7387a8f39b0f736fa3db5933c38fe188991d2d48021d4bb"
+        }
+      ],
+      "licenses": [],
+      "copyright": "",
+      "cpe": "",
+      "purl": "pkg:rpm/CentOS/perf@3.10.0?arch=x86_64&release=1160.el7",
+      "externalReferences": [],
+      "properties": [
+        {
+          "name": "ssdeep",
+          "value": "192:RrzLqmQC3Kd7zKPX5KS4Zdo/skDMYBNiZ9rz7k3FsP:5XM76p4o/skYYXiXrnW"
+        },
+        {
+          "name": "size",
+          "value": "9528"
+        },
+        {
+          "name": "full_name",
+          "value": "./usr/lib64/traceevent/plugins/plugin_scsi.so"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.abi-sysv"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-shared-object"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-file"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.arch-x86_64"
+        },
+        {
+          "name": "package_name",
+          "value": "perf"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "mime-type": "application/binary.elf",
+      "bom-ref": "file:26e04584faeef0610ae10e17ca6b8609d5f5fd00c51c0957ec3682cd59745659",
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "plugin_kvm.so",
+      "version": "3.10.0",
+      "description": "",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "26e04584faeef0610ae10e17ca6b8609d5f5fd00c51c0957ec3682cd59745659"
+        }
+      ],
+      "licenses": [],
+      "copyright": "",
+      "cpe": "",
+      "purl": "pkg:rpm/CentOS/perf@3.10.0?arch=x86_64&release=1160.el7",
+      "externalReferences": [],
+      "properties": [
+        {
+          "name": "ssdeep",
+          "value": "384:+Z3wXyTf7iRUVzibzFrgSoPQgYrWF1FGZ+7x+UwPDd:+ZAXSzrcnWFGZu+Uwbd"
+        },
+        {
+          "name": "size",
+          "value": "15928"
+        },
+        {
+          "name": "full_name",
+          "value": "./usr/lib64/traceevent/plugins/plugin_kvm.so"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.abi-sysv"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-shared-object"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-file"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.arch-x86_64"
+        },
+        {
+          "name": "package_name",
+          "value": "perf"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "mime-type": "application/binary.elf",
+      "bom-ref": "file:43183b508f00cabf4aaacec6c1163cf43bc73a0d7abd57b94c711887da5b7e20",
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "plugin_xen.so",
+      "version": "3.10.0",
+      "description": "",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "43183b508f00cabf4aaacec6c1163cf43bc73a0d7abd57b94c711887da5b7e20"
+        }
+      ],
+      "licenses": [],
+      "copyright": "",
+      "cpe": "",
+      "purl": "pkg:rpm/CentOS/perf@3.10.0?arch=x86_64&release=1160.el7",
+      "externalReferences": [],
+      "properties": [
+        {
+          "name": "ssdeep",
+          "value": "48:R06qthY9dEOkBUBS0O/xxRycHFVxypAutA+/KxkwX92lEsAZPW73k:RZWhcdEXuS0O/ngcHZBujykwNyYPI3k"
+        },
+        {
+          "name": "size",
+          "value": "5944"
+        },
+        {
+          "name": "full_name",
+          "value": "./usr/lib64/traceevent/plugins/plugin_xen.so"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.abi-sysv"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-shared-object"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-file"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.arch-x86_64"
+        },
+        {
+          "name": "package_name",
+          "value": "perf"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "mime-type": "application/binary.elf",
+      "bom-ref": "file:4c4c6504831390448af9aa81dda990bff83653272bd9636fccf1955b04d4cc30",
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "perf",
+      "version": "3.10.0",
+      "description": "",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4c4c6504831390448af9aa81dda990bff83653272bd9636fccf1955b04d4cc30"
+        }
+      ],
+      "licenses": [],
+      "copyright": "",
+      "cpe": "",
+      "purl": "pkg:rpm/CentOS/perf@3.10.0?arch=x86_64&release=1160.el7",
+      "externalReferences": [],
+      "properties": [
+        {
+          "name": "ssdeep",
+          "value": "98304:d/8hmIAcnHr/wUQ/LKWFojJTxUXZ7xfDsD:TIAvXojJ2DsD"
+        },
+        {
+          "name": "size",
+          "value": "5938600"
+        },
+        {
+          "name": "full_name",
+          "value": "./usr/bin/perf"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.abi-sysv"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-file"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-exec"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.arch-x86_64"
+        },
+        {
+          "name": "package_name",
+          "value": "perf"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "mime-type": "application/binary.elf",
+      "bom-ref": "file:5491ecaa988c0cf59fb02ebd8b155d0e43a97e6afb2d77cb6c752ba5da76dff4",
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "plugin_hrtimer.so",
+      "version": "3.10.0",
+      "description": "",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5491ecaa988c0cf59fb02ebd8b155d0e43a97e6afb2d77cb6c752ba5da76dff4"
+        }
+      ],
+      "licenses": [],
+      "copyright": "",
+      "cpe": "",
+      "purl": "pkg:rpm/CentOS/perf@3.10.0?arch=x86_64&release=1160.el7",
+      "externalReferences": [],
+      "properties": [
+        {
+          "name": "ssdeep",
+          "value": "48:RqLcOJih1CU/T/Ra/hh/4Q/U/KCMm6rPscAx/28I/:Roclh1C+/c/X/4Q/U/KW6roQ"
+        },
+        {
+          "name": "size",
+          "value": "5288"
+        },
+        {
+          "name": "full_name",
+          "value": "./usr/lib64/traceevent/plugins/plugin_hrtimer.so"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.abi-sysv"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-shared-object"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-file"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.arch-x86_64"
+        },
+        {
+          "name": "package_name",
+          "value": "perf"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "mime-type": "application/binary.elf",
+      "bom-ref": "file:ffd86778111ad3c8dd253dc67a554ae7e08e12b91ff8e23355ea8be122079185",
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "plugin_jbd2.so",
+      "version": "3.10.0",
+      "description": "",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ffd86778111ad3c8dd253dc67a554ae7e08e12b91ff8e23355ea8be122079185"
+        }
+      ],
+      "licenses": [],
+      "copyright": "",
+      "cpe": "",
+      "purl": "pkg:rpm/CentOS/perf@3.10.0?arch=x86_64&release=1160.el7",
+      "externalReferences": [],
+      "properties": [
+        {
+          "name": "ssdeep",
+          "value": "48:RqCVt2z9LEH9/r/zDq1m+PmLxIc8JyLz:RntKLEH9/r/zDq1m+PmLaI"
+        },
+        {
+          "name": "size",
+          "value": "5272"
+        },
+        {
+          "name": "full_name",
+          "value": "./usr/lib64/traceevent/plugins/plugin_jbd2.so"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.abi-sysv"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-shared-object"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-file"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.arch-x86_64"
+        },
+        {
+          "name": "package_name",
+          "value": "perf"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "mime-type": "application/binary.elf",
+      "bom-ref": "file:e5bf82e4d6e80ee70e9e781e53f510fe656bb2b4a668a38230f6ae070f799eeb",
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "plugin_sched_switch.so",
+      "version": "3.10.0",
+      "description": "",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e5bf82e4d6e80ee70e9e781e53f510fe656bb2b4a668a38230f6ae070f799eeb"
+        }
+      ],
+      "licenses": [],
+      "copyright": "",
+      "cpe": "",
+      "purl": "pkg:rpm/CentOS/perf@3.10.0?arch=x86_64&release=1160.el7",
+      "externalReferences": [],
+      "properties": [
+        {
+          "name": "ssdeep",
+          "value": "96:Rm7bv0wXgqddtn/SMmMM/+X/D0/cQ//q3Eg+fMh/OBw/RSqG1Mv0/yX/shbyg+nH:RKbv0wd32TKIP6+fCriDG4b2v"
+        },
+        {
+          "name": "size",
+          "value": "5328"
+        },
+        {
+          "name": "full_name",
+          "value": "./usr/lib64/traceevent/plugins/plugin_sched_switch.so"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.abi-sysv"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-shared-object"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-file"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.arch-x86_64"
+        },
+        {
+          "name": "package_name",
+          "value": "perf"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "mime-type": "application/binary.elf",
+      "bom-ref": "file:cddf6a3c17cf929d247f51c042ec9a208ec9463b0d9cea565310e11ddbe002e9",
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "plugin_cfg80211.so",
+      "version": "3.10.0",
+      "description": "",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "cddf6a3c17cf929d247f51c042ec9a208ec9463b0d9cea565310e11ddbe002e9"
+        }
+      ],
+      "licenses": [],
+      "copyright": "",
+      "cpe": "",
+      "purl": "pkg:rpm/CentOS/perf@3.10.0?arch=x86_64&release=1160.el7",
+      "externalReferences": [],
+      "properties": [
+        {
+          "name": "ssdeep",
+          "value": "24:RUors24LkrgNxNr+ayBz/SubGxi0ZaQfnxbHMysRvP:RhZ4dLEayU4GIwMbP"
+        },
+        {
+          "name": "size",
+          "value": "5272"
+        },
+        {
+          "name": "full_name",
+          "value": "./usr/lib64/traceevent/plugins/plugin_cfg80211.so"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.abi-sysv"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-shared-object"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-file"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.arch-x86_64"
+        },
+        {
+          "name": "package_name",
+          "value": "perf"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "mime-type": "application/binary.elf",
+      "bom-ref": "file:d8a10612e1ffa232ed8a4ef4053de12576cee253267ac5e5ba1646e3c5f04160",
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "plugin_function.so",
+      "version": "3.10.0",
+      "description": "",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d8a10612e1ffa232ed8a4ef4053de12576cee253267ac5e5ba1646e3c5f04160"
+        }
+      ],
+      "licenses": [],
+      "copyright": "",
+      "cpe": "",
+      "purl": "pkg:rpm/CentOS/perf@3.10.0?arch=x86_64&release=1160.el7",
+      "externalReferences": [],
+      "properties": [
+        {
+          "name": "ssdeep",
+          "value": "192:R1pVjRETFagbIl7HfOVfKY+5SHFUfGCE:zzKTFaZbOVfKY+5S"
+        },
+        {
+          "name": "size",
+          "value": "10184"
+        },
+        {
+          "name": "full_name",
+          "value": "./usr/lib64/traceevent/plugins/plugin_function.so"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.abi-sysv"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-shared-object"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-file"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.arch-x86_64"
+        },
+        {
+          "name": "package_name",
+          "value": "perf"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "mime-type": "application/binary.elf",
+      "bom-ref": "file:bf98aafdadb6fa2f1d63e4ccba8b57b798a74f29e035be3f2332342ec0dab62e",
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "plugin_mac80211.so",
+      "version": "3.10.0",
+      "description": "",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "bf98aafdadb6fa2f1d63e4ccba8b57b798a74f29e035be3f2332342ec0dab62e"
+        }
+      ],
+      "licenses": [],
+      "copyright": "",
+      "cpe": "",
+      "purl": "pkg:rpm/CentOS/perf@3.10.0?arch=x86_64&release=1160.el7",
+      "externalReferences": [],
+      "properties": [
+        {
+          "name": "ssdeep",
+          "value": "96:RZwhzJEoFP/xU/c9/Zy/dT/Pb9hGrv/A8Xzv/S2LeCR+KXj9nQ:RZwhzJEoZG8xyhsX0KRn"
+        },
+        {
+          "name": "size",
+          "value": "5472"
+        },
+        {
+          "name": "full_name",
+          "value": "./usr/lib64/traceevent/plugins/plugin_mac80211.so"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.abi-sysv"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-shared-object"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.elf-file"
+        },
+        {
+          "name": "filetype",
+          "value": "filetype.arch-x86_64"
+        },
+        {
+          "name": "package_name",
+          "value": "perf"
+        }
+      ]
+    }
+  ]
+}

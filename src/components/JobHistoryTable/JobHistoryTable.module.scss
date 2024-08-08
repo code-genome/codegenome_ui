@@ -1,0 +1,41 @@
+.tc {
+    width: 100%;
+    min-width: 100%;
+    min-height: 690px;
+    margin-top: 16px;
+    padding-right: 0;
+    color: white;
+  }
+  
+  .history_table__command_line_col {
+    flex-wrap: wrap;
+    overflow-wrap: anywhere;
+  }
+  
+  .filterTitleText {
+    .security--filter-panel-label__text {
+      font-weight: 600;
+    }
+    .bx--accordion__title {
+      font-weight: 600;
+    }
+  }
+  
+  .loadingIndicator {
+    position: relative;
+    top: 8px;
+  }
+  
+  .sevIndicator {
+    position: relative;
+    top: 4px;
+  }
+  
+.jhSelection {
+    background-color: #0031857a;
+    --cds-layer: #0031857a;
+    :global(.cds--data-table td, .cds--data-table tbody th) {
+        --cds-layer: #0031857a;
+        background-color: #0031857a;
+    }
+}

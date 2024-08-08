@@ -1,0 +1,37 @@
+
+// @use '@carbon/react';
+@use '@carbon/react/scss/colors';
+// @import '@carbon/ibm-security/scss/index';
+// @import '@carbon/ibm-security/scss/globals/layout/index';
+
+.searchPage {
+  margin-left: 16px;
+  margin-right: 16px;
+  margin-bottom: 16px;
+  text-align: left;
+}
+
+.job_content_org_tree {
+    text-align: start;
+}
+
+.ujsPage {
+  margin-left:16px;
+  :global(.cds--inline-loading__text) {
+      font-size: 28px;
+  }
+}
+// Overrides for org tree
+
+.job_content_org_tree {
+  text-align: start;
+  .cds--tab-content {
+    --cds-focus: #16161600;
+  }
+}
+
+.searchET {
+  position: relative;
+  bottom: -40px;
+}
+

@@ -1,0 +1,2484 @@
+{
+  "d81e6ad3a689839ef620ae3e5c932a9d0f5ef9bcd3f88d2e10f029ceb30a4f23": {
+    "type": "file",
+    "name": "perf-3.10.0-1160.el7.x86_64.rpm",
+    "size": 10123956,
+    "filetypes": [
+      "rpm-pkg"
+    ],
+    "children": [
+      "2fa6744692168389fb33a14f843880be55e1046a1adf59310d77cda3fe92adc2",
+      "638527329584f3523a05fbad210e9d4b946892415aff39254ce9668c794ed365",
+      "d9d3690b55b763555b5016eadfd207748413fec775ed3e6585329a1bed8dcd52",
+      "1946409359981abe907682788d8b2bff01c12c33bec3ae0c00e621879c1dd72e",
+      "e7734c3f38711afd97162606b130742ad7f53927dacbfd3b0db2c4e0ed160217",
+      "54b30eb6b4439e6f7ba3dcef741a6aa4aa72d576f5fca2ea20dba475e2461f77",
+      "bf98aafdadb6fa2f1d63e4ccba8b57b798a74f29e035be3f2332342ec0dab62e",
+      "cb498777448a15427ad61d45edff9356b089e9db2a8fc7e38afd72a810119d57",
+      "689426fffee3019e3174e8dbe3cc9715570157ee353d8442ab9b324755dba9df",
+      "a2467a327aee43beb86dcf7752b18da3a20aeed99d98f367df5bdc5b09cbff2b",
+      "512a636a43b5c91198fc575c38a1c7ede0f9968c7ffadd2bf4de01b42c7dcfa6",
+      "29728c4ddca798b69f3a81cde7c2fb798f8ca4f810da2409853bed05c73262e2",
+      "7584ce9e22dfa57a59f1cd63e6250cf1533ad1e0c8ef042a9b4daa93b7950c79",
+      "de753143473febbfb71fb327d08f27fc349b0c1a6ed0551e0bc2636331d1e1fd",
+      "5c3944d6138688e448668ae027f52b796f5ea57d79b63f0cb29e6465a82eb08c",
+      "c30e3444be0d013278b9438bc1cf1184eebcb1847ea04b566298c78fd93cc9a6",
+      "7d9e34f11c1fd26cf6c2e20e1f20fd15cde9b7d6b99ce4a76c728386f5ca0a29",
+      "10db5e5f7bc6ba12086bc1e3cf630b109bba1e93035533a99409855c4db3f950",
+      "c9bdc65deab6a9403e2614533b1b173e23f8b64625e117508fb3e292d17a4ca2",
+      "aae1fb242ba5784583b72489f0ed757bc97d76a480f91b54095512863d527cd7",
+      "0dbe8fbfbac8785ceea32941444f188a1dc38bf2cd0e851c4b923fd314937281",
+      "03350e1781aa28a6642a808de70bf9dd0b765c478a103a6a9dfab11bffbf422a",
+      "bb4ff5158292e217d3aa05fc5c12da15691737d6532868dc7aebe7cdb74eaa1e",
+      "11739cb278c97b506992bb6b40b6231aa8a7bc5dd20d0664fdc3ec2616d598f5",
+      "298b62e96d66476532c12c5bccf523858decfcb6b07c09381b315ca8dc2e70be",
+      "8547fffa81d7601b6e2514749c0d079e60469e4fcd1ee395f236c4c0f8dc810b",
+      "d52d1e451af3d5ff57f33af7d66b2f315fd61e890d46237acf599938bc1af84a",
+      "4f7ba866a770abd37d4a067fadcca2ab503f19a95beaee91381e15c3b4002527",
+      "e127ba945161269d6d110ee572cf2441fdd00f77a37a9bceb143ac6caf187f7c",
+      "ecf0d3829351b29ed2400777d7ac545f28aaada76cb10daed405020d653ed471",
+      "2317e74b8dc88d6095ad53a52093e9dae63b5a12412e0a500fd09fbc9edf1b11",
+      "18cbff81a05c9b8f8d6359ecbdcad085b786e628d9f9dc056f8061604e465a59",
+      "575e735b8696e9b96a56a0099c01c4db0181b8132830973b6081eac7b1d268cc",
+      "3a5e0effdb03d95aa4938dae0dcf9813d4a3d74d8f5f28df564fb909db763a97",
+      "334684daec24ea66e24ace548dc9acb42740268a0d7a28e9f2bfb2d0333fb5c4",
+      "cd1e9fca73e6f1c6b34b557c005bfcaa6f2c6a441ea1af99fc5f0fba31e43178",
+      "c495f9827588e853da89d48b7369703ec532aed75a97bc7753017355608f0ffd",
+      "cac152a0066f8a0f371c9cf0fa96f2e548db2b45017351fb7e384276894f33f2",
+      "9b4d6d0a96c1f567ad43a2d6ab40aaadea936f73c0e68bd8860c7c3934774ca9",
+      "8e4c0356a7131309b8098bfe0a37c3dab35bcfbbfc5bd5454e268e07cae02da8",
+      "b45a762d771e5208bf10f0c0ac506bda4ccccba51679d7ad535120dd23219d4c",
+      "0519d71609e353652738919c7178f05919320364e83c1b22924f4b942c30555e",
+      "44e761eeb782a4849f2fc1a18238d37c3cf50b80221b4f4bce5b6e70e3f8f2d1",
+      "9478b5fea5b18d8994151f58c78a6c8f111bdc4bf52210146c01b87ff28b17af",
+      "f2baf63791942bdb40af66047487eca98e9ed03bb7419679e699036abf606a13",
+      "15e5e84e469337dfe0495f3bc60226da2153e96f042750f844654dfb7359933d",
+      "2bed89675a623691e8d1d27669d534f89da5bf75aebdb5b6d3f92c345a2bd705",
+      "b18ae0122541169c804de9088e0c4a101eb8e4dfc906fa6c65f92bcc2b40ed60",
+      "07a069fc803a75e8b29c1952e6c15870a3178e886a13c223c476316fb484d787",
+      "ddef8b0a8ca41cb921e643167c9ba9fef41c27bcbbd35944bc91645ade6be725",
+      "3fba0630a80dd332ecf29fccb917a0f1d26d9a8755455483cfb20b82b0068caa",
+      "0a61b5831201afda4a868c166dfe6d25787ce2ca37c43b38627598db233a8857",
+      "fd86c366a7f3f25c76e6caca0c3f264e473bf6ae2060163769dc903df2b31051",
+      "d8a10612e1ffa232ed8a4ef4053de12576cee253267ac5e5ba1646e3c5f04160",
+      "cddf6a3c17cf929d247f51c042ec9a208ec9463b0d9cea565310e11ddbe002e9",
+      "effb3c85d0b695d14a09a6716f76dfec3823a70ed09519034c5e527f688da54b",
+      "c6bb96af679a10d74e67b88e39c4d4f7b780ee7dfcca755d88c27073165b6416",
+      "96a5cb253dcbd8ea32a9cc4832eba774236c949710b40e97466e1fac2b6b328b",
+      "c979be8266f97169fd025f594d98fdd03eb0f0332352197167e8ca5d3862a809",
+      "28a8201e2cb856693d88c19f1fc5f89d3e6e0c32e865f2502f18d0c4d8ee0325",
+      "ab3a9c9378fcbc7dc6f9665be47ba29a4f12c98b09b81e15b8cd6dc180eed2c5",
+      "73f2c391f5e8d0d66e7581757eb8aa4b275f0163e19cf47416547ec8be9e32e6",
+      "af6cb0d70a003961ee5ef7bedc0a566d727fbd949ff2ebd3bf8032059aceae9d",
+      "c184af5b2b1cde6485f9328c3d69a0364c4cf7960754becaffdc2d62d45610ff",
+      "7ddc18ccd4727f521e00a6c4b90253c6370133883c19f8ca322d4993cbd71b3c",
+      "df185404c8205d8b8491abeb4181777a297647a23cd918fc62480a63e7895c45",
+      "899358892076ffecacd1142b9e0c53504e9ad70775929a2355d541e988e6e770",
+      "b1e5d7b5b537c288069239602d8d59f46e41349305d335514eb488ac921ff7e6",
+      "34bad7b0145a9bb73fafaaf1462f746ea731fba3ce7a60980595db9d646bbe63",
+      "bfdef20aa978a8058b82c8f2bc1560ad990a972322b1798f5fa28e30c62886fe",
+      "6207731e58f2e0806bf4cc9bc828b34cadcd71b95b0912dca39b13f9c9d81d66",
+      "65c7f40a910247c45e9ab52cbf662f334aecf76c3e307a0958205f580353d1c2",
+      "d0d23c8e816a4748a81469bd0b7e23bdf18ef7d7b48e151750569571954fe4d8",
+      "4c85936e65713138de21d48d1632da8dc1f76a45bbe4da685af9e3d88b9f76cf",
+      "5c7164b0f8170756c390b415501f5404a271b76742dd5fc0f519a5ffab37f2fe",
+      "e5bf82e4d6e80ee70e9e781e53f510fe656bb2b4a668a38230f6ae070f799eeb",
+      "ffd86778111ad3c8dd253dc67a554ae7e08e12b91ff8e23355ea8be122079185",
+      "3db9d64e506df6a13c0cc318363d0c6ce1c58a3d158a3e6632ca83034ef23ee3",
+      "65bba27ea3cf2e648c9b52c9893bf83e54ca5d86d8b50a63a721da6377026edc",
+      "81a96fba13d955fe3dee7fe2cded5bba5ecdc3ff9c9b352bd5bca276df1e8602",
+      "ca9e299bc3f2f42ce62970fe159ac46483c90d3346c39f25dd43e2dd31e9149c",
+      "16a0918c2da65f3f2ec50f5a2ef1fab528ebebca877aa3756a29e55a86a6f119",
+      "159bfb92027a3a6346f6b00d8a7b175cc7a51d8b8b2b043608ccc876233490c6",
+      "d6ac4d0d683108c01785e9b44a01da4572c18650daedca0f340e5356ecd1ecbc",
+      "b2779a89f2a3effead6ca7fb68a87c9cd88a12bfecc18b34e175d08e1df21f89",
+      "c5704a8b38ed3e5952d1b8bf777fc41e74c6c0db467e22149f768a8a74e58781",
+      "a775904833e5274c3c903c59dee8d19aaf16c2d33967dc2cbc268bb8ddc0018c",
+      "7808f55b618b93206e4ff0583800d33bc85d74fe26f7e1af3346ccf4a00c0790",
+      "b80504391541c7667e962889837cba72961175c022ccd21fb97f74ac5f568fe9",
+      "49df15f95fe12bf2d83871e8e1214c93f3bf01cacc98ecbc2049d342634a77f0",
+      "cd2c4aab9a0c4c69c029db932f51df88b5b401aa07cd67c37a7c40c89d218d02",
+      "c050292c8e0f4c83a05099ead665941d80eb04029b129e8c6e06a634373d750e",
+      "5491ecaa988c0cf59fb02ebd8b155d0e43a97e6afb2d77cb6c752ba5da76dff4",
+      "4c4c6504831390448af9aa81dda990bff83653272bd9636fccf1955b04d4cc30",
+      "b113bcae6ab44d494b91037e2d7a0c4223e9e304188c26cd794590041e21fa1c",
+      "b8037d1cb821415c15bddf05c5e086f627e4eaa7178dec48d03a57e37bb50af2",
+      "2ea588e4f2e657cab322014b6fb6065ae88c0d19bd5b698f07843856abe949e8",
+      "03959486e4a2edabb62a07b9ca443b9fdf741be0e97a8f2ca5cf31b55091da59",
+      "16f6a3906ff560b9ee9117d74cccfefc03345b3ad476c9b9474f573dc4573277",
+      "2dc397b245114a9b8397a52c8644df0dd5bf3b287bb1c8e2ab906defb0d4abca",
+      "21ec6dd77ca8d70a9fece860b540edea4ac11a593c2ded8d49c87952a40e5846",
+      "7b6f4f43e67c42d0d2fb8fd2007333709990c2e7b04a703f637a1d8a5f605ee3",
+      "12203269b4a682292aab90389ead1f9dbbf8f3ee954cc2c491e294678c0d32d2",
+      "5e72a52b54da3e7fa7288d89a2442bb2b30622b40b7c426a723f912dc01b23dc",
+      "deb2301b69ab465081f38ffed51caf4f12523ebafd3a3062498786b0c25af1d1",
+      "74c34842ab7faeb598ac367816325e1b68b87f7f4ade819b5ab5817c31412600",
+      "0c855f7423b17befb61f4841fbe72ee147504a5d73cfbd5c0254e960a087a3c3",
+      "2b863ce37d3460ba50422925c503a863ca35a6d1eebd836c4a1f01cc5323999b",
+      "62b81e82e58d1c628802a4c7e75fbae1d248dab7af633e7d7a24cc4869d54999",
+      "b72892cec76a44b1d686463f2f881d9ad8f4b47bca5203e6f561a36648ba20ef",
+      "f456ce3c4e4ecff82ce0fe092c94425ce7a87c08e240ed23dae12ebebe61756f",
+      "73390c59f22a909718196758969fa0da90c7491e1455579b97ea7e567773e03a",
+      "b506edea0fdf04c54db603ddf48a3f452681bbbb7c9af1bee6cd337b6f5a9bb3",
+      "70e19a58f365a28b21c50dcea70161b672ff547d0288b6c85a2b38bbce484b99",
+      "018634e0c11ac2c402d6b262098d11ab1501571ae234486d62bf2612222fa92c",
+      "59a213314a62ce9cb2f9dbbc9f8c6ee57a16d08752edc895697117c597ba9516",
+      "b7e7f95751c41b12d813aced0c8241a1a41eb03540c8be5f5869785b1795f1d6",
+      "43183b508f00cabf4aaacec6c1163cf43bc73a0d7abd57b94c711887da5b7e20",
+      "26e04584faeef0610ae10e17ca6b8609d5f5fd00c51c0957ec3682cd59745659",
+      "a64a3109fb483c7d59649282254bed53f2da6816ff4776b73fec94b44a38248f",
+      "00f5d23a482d25811a038e1c51e3122906c3bf89c79fedb78d4ee8ed49d44dac",
+      "54184e46d9e69edf40f62babf205a906656c6a7b3f803bded371a956041135f2",
+      "ae7bf5bdede62e0d6dc51e9f6fa88e7732ce322324f54c27e2405987119ff936",
+      "0f870716ee940acc118aa97c6066b4c7e7c0f44b44ad87d95661537b2ccab6f5",
+      "127cff851304dc8209408fa4a2f927e948f3e5b59165f8705748ff4d57cb9ae9",
+      "6758865da56a9bb6e981bbe1a460facf206ca789fbb8d87cdbc7e13c954af899",
+      "031aa24f14088ca49c81736f58e519e15879af54088d9c005bda10d76f6fc1d9",
+      "7e7958339b1d01a85c358ae6954e22835718225b8dacd7ce2624759dca68623d",
+      "61456144a345d775339fb8704684db05053205a876e9b924559c05484ffcbdf0",
+      "edc86a7f7bcb1654eb7594936ee8ab4ec052e1f57970b15d9b850adadfd4d924",
+      "45b082ca21d24bc99509747a51e0aabbe8e8924677847e7ebab8de485eb8b664",
+      "836600a01075dd1b9fb4e442b994d6a4ba9a63d670651ccd7e1c33255ef90ec7",
+      "c78786606529ec44d11fa21214de9c557089decb47e0ca49d604be7df4c46536",
+      "2aa9b7f513835ab10a80b4de13e47c3194a5b3cbca6ed3c8c89750fd9335af84",
+      "087f670ad8331e056b3bdfb6972d4cf73b15f9b11f87568e7487c6578c291152",
+      "57b58a7cd43b9977bdf7e53138f7260b0dca8f5cfa5fb86cd0a754a94221fcba",
+      "ed8ccbf3b9c23ec003f12cc064239baa42fd17e455666f15c1216d284e0d4ccd",
+      "a98b10fa09b7b2ef60b64df13370d6a3c7eb7708205c4914ca39fea337d56219",
+      "aad589c8b623760d9a697bf6c11a91732908b8a9c1aa3cae5e543d724d4cf528",
+      "95221ec72dadc8ba8dde12073c2ff97e2fcf5479c284d4e4bd64f66a1c18e3ac",
+      "ae246ff46fddb8bf3ff471f5e141026d6be550414c2d6ca4801a4ec90f3a0641",
+      "02a3eb78c39ce7f2ed44a67b782e2b9d22a2ce1cc3b29ed0f20d36b20307c7e9",
+      "191742180aa0b2e36de2145959584d2197ec4c941557cb7a4c16c0f66b93f548",
+      "7640538d5c4f7a3ec5f6adb85e131021d8a3d978070ec639448e872ce430c6b3",
+      "92bf836ab1ad3e61f9b95182bffd536c173afba22f7e56218484d4e5d4017f58",
+      "c3164266f4465c2e737538244db5fe6815badfe80f956e655d06622e8289f223",
+      "35818d3ad416ebccaf44d55b90276ffb1ed68e086f8cc420654772d02219b81b",
+      "6ca4c851c618b9a9d7950090d83036b6aabc026ced0341da06559a9dc5ac1581",
+      "a026dac74a9042326813edd736b58b04f3b20cf7adab767e5c0e626a6a9abbc3",
+      "4b40fdaa5d5d0ba7244c483e04dde8dfe478776ffa9b856531cc148d03d2e618",
+      "0bf8ae6313cbbc1cc6449b34e96cdf9a932eae75d731969b43868f3a073042b2",
+      "e5b7b4c7e8f124f904d47e53697c1375722a411b3844d67d608259a2253de506",
+      "9c1fe28a0496ada69e282c92b829be4e56cfdadb5f42a049665e8d508f6774b0",
+      "fea20d77984f4f314664254214c8d568ee5bb0a4d552e6ae2c9112fbc5d7f693",
+      "bb60a38cac2fb760e7387a8f39b0f736fa3db5933c38fe188991d2d48021d4bb",
+      "777979645a2e14916490e81aaee91f1c406fe17564cfa862e3eb02d11e24e6f3",
+      "898b9f5b3ae75fd065d49f3846a50fa2c23fcd075acd1719aa2717c3e871ebc8",
+      "a10deb47c4092fee10b059c2f95436f51275334ef2f1d429837464229dffec26",
+      "4d8ebe46afe2ce2c9eb0f6cb962bbeb67637786d6b8c7e9219e73f41c5f6ada3",
+      "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "1b4dea983ca5f61bcafc212257531c31c12b2e4c29e93b73646f979e93578cb0",
+      "cec47863e58112f5d2c2476c03ed32319bfa52af992b7f8cd228c2d3c2fb81da",
+      "1b214b94a694edc4e81126a322d04730ff4c3db7e40a570c6c746bb5abbc96aa",
+      "18e16bdc560b89e593b341801d210ef8de14cc3d52063a9d1e14bb81d1a175bc",
+      "857c1b3eb121f75609374559d04c726479c6347585efe0f69660b55f3db70bb6",
+      "23de69dfc856391c9e3491821fc3f4a13f426a6fe696399e68a582f6c88e4512",
+      "a1f3544a47a7496cbc3c88af5684f89010c56066c50cbf20e0c63e0d05b7c1f4",
+      "0bb0bc90b49fee1ddc0eb5980dc5b0a6ad871378181d49ceb959f49b2f7ca924",
+      "8c4a06009e1f964e05d50bf08275a39066eeaf4c2404c1d6738ac454ae992d49",
+      "4537f2b702abffd06b9cb4f556b216a47534ee4695a40dd0d6053cb77a9a8c4d",
+      "031c4d942011e9b120b8797c9c7e2c1aecf9d4762fdae1fcbd0c1dc29fb99239",
+      "5c4b4e2b11dbbb70e034f3b6a0b9805f2350bcc0f9ff50f47a4081afe49d6ba3",
+      "bf18480360e9fb135bb5aaeae7bd6081146f0f5cf0364dff925c62329983e88c",
+      "7701b815c219d1e85593ee5e73c4c36e166a3bfe704383b38551dab97a6dc563",
+      "63639ca47e710717fdd1a940fe03ec8974c44d6c0051b0cd192ee5ea2586a729",
+      "b403cf8a193ec6f9809a494c2aa9ef218eb5dacc8ddb3d38bb420125ebb81e04",
+      "527aa508a4d9b1a62d8f25a40302979705307a4d2a7213feaf77f7d50cf7f354",
+      "493f572d46820426cb7c76d34827907def5996a1a8f06df3fdca31321d54f2d9",
+      "b39c0032e6354787bd59d3672eb6100c65e4deef8ceb71baf4d0da7a60887c29",
+      "6eccb718f305dc19fc088943588a25b0dbe2745be65adb3f2fea3f59c0cc6412",
+      "5d8edb679bb47c086fffb3f79d796a90338b760d32a4714f8c6fa2bbac4a05be",
+      "060863026847a50f642183256626c034b69783b9470db7a8bf3d830bedcce685",
+      "58f7d5a744a606c9a390f6b8f188d213e47f7e20316288d13a92a340dd45663c",
+      "adfa585c17990dfb4dabfd3c29a4fe369a3ed8529a680662723ceb712f89712a",
+      "a2593ceb28815063c46ea30a77e6af5d94fb57acef8185bd01e6e2e576044116",
+      "9464635385bd72a80bcd543e61a29dfe19f0cc50a197574eee92302fe49533e1",
+      "d8b0f98dc8f65e7bfb167fc68bee72db66f85861f4838db0a3e19dd86b61fe75",
+      "0eae702e9cc13d4e7bc2bf02b2275976cb2c914be611b6bcb062c5ced313be5f",
+      "16be0fcbc818e3bf58e75bed2837a7de93e69c84191ffb6c8c9db29b9b57bb9b"
+    ],
+    "depth": 0
+  },
+  "2fa6744692168389fb33a14f843880be55e1046a1adf59310d77cda3fe92adc2": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/syscall-counts.pyo",
+    "size": 2545,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "638527329584f3523a05fbad210e9d4b946892415aff39254ce9668c794ed365": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/sched-migration.pyo",
+    "size": 19961,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "d9d3690b55b763555b5016eadfd207748413fec775ed3e6585329a1bed8dcd52": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/check-perf-trace.pyo",
+    "size": 3021,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "1946409359981abe907682788d8b2bff01c12c33bec3ae0c00e621879c1dd72e": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-probe.1.gz",
+    "size": 5113,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "d6bd5be396e233aa1d151f0f25a5d5cd8d62069463a6a5aaa318872f645f1e20"
+    ],
+    "depth": 1
+  },
+  "e7734c3f38711afd97162606b130742ad7f53927dacbfd3b0db2c4e0ed160217": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-kallsyms.1.gz",
+    "size": 743,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "6755e9a5e8e412a4580161e6dc0147cd9c4d4270e8639e8ca18826b72fd9ccdb"
+    ],
+    "depth": 1
+  },
+  "54b30eb6b4439e6f7ba3dcef741a6aa4aa72d576f5fca2ea20dba475e2461f77": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-buildid-cache.1.gz",
+    "size": 1492,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "f7728f523017fa2c389c00b210ebc65531bf991ff330cd04c71f6ce8cc6a5c70"
+    ],
+    "depth": 1
+  },
+  "bf98aafdadb6fa2f1d63e4ccba8b57b798a74f29e035be3f2332342ec0dab62e": {
+    "type": "file",
+    "name": "./usr/lib64/traceevent/plugins/plugin_mac80211.so",
+    "size": 5472,
+    "filetypes": [
+      "abi-sysv",
+      "elf-shared-object",
+      "elf-file",
+      "arch-x86_64"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "cb498777448a15427ad61d45edff9356b089e9db2a8fc7e38afd72a810119d57": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/event_analyzing_sample.pyo",
+    "size": 6022,
+    "filetypes": [],
+    "children": [],
+    "depth": 1
+  },
+  "689426fffee3019e3174e8dbe3cc9715570157ee353d8442ab9b324755dba9df": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-stat-no-inherit",
+    "size": 120,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "a2467a327aee43beb86dcf7752b18da3a20aeed99d98f367df5bdc5b09cbff2b": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-stat-detailed-3",
+    "size": 3834,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "512a636a43b5c91198fc575c38a1c7ede0f9968c7ffadd2bf4de01b42c7dcfa6": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-stat-C0",
+    "size": 194,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "29728c4ddca798b69f3a81cde7c2fb798f8ca4f810da2409853bed05c73262e2": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-freq",
+    "size": 115,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "7584ce9e22dfa57a59f1cd63e6250cf1533ad1e0c8ef042a9b4daa93b7950c79": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-branch-filter-any_call",
+    "size": 141,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "de753143473febbfb71fb327d08f27fc349b0c1a6ed0551e0bc2636331d1e1fd": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/sched-migration.py",
+    "size": 12124,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "5c3944d6138688e448668ae027f52b796f5ea57d79b63f0cb29e6465a82eb08c": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/mem-phys-addr-report",
+    "size": 128,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "c30e3444be0d013278b9438bc1cf1184eebcb1847ea04b566298c78fd93cc9a6": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/intel-pt-events-report",
+    "size": 136,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "7d9e34f11c1fd26cf6c2e20e1f20fd15cde9b7d6b99ce4a76c728386f5ca0a29": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/failed-syscalls-by-pid-report",
+    "size": 258,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "10db5e5f7bc6ba12086bc1e3cf630b109bba1e93035533a99409855c4db3f950": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/event_analyzing_sample-record",
+    "size": 199,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "c9bdc65deab6a9403e2614533b1b173e23f8b64625e117508fb3e292d17a4ca2": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/EventClass.py",
+    "size": 3657,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "aae1fb242ba5784583b72489f0ed757bc97d76a480f91b54095512863d527cd7": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/failed-syscalls.pl",
+    "size": 1157,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "0dbe8fbfbac8785ceea32941444f188a1dc38bf2cd0e851c4b923fd314937281": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/bin/wakeup-latency-report",
+    "size": 133,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "03350e1781aa28a6642a808de70bf9dd0b765c478a103a6a9dfab11bffbf422a": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/bin/rw-by-pid-record",
+    "size": 135,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "bb4ff5158292e217d3aa05fc5c12da15691737d6532868dc7aebe7cdb74eaa1e": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/bin/failed-syscalls-report",
+    "size": 241,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "11739cb278c97b506992bb6b40b6231aa8a7bc5dd20d0664fdc3ec2616d598f5": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/Perf-Trace-Util/lib/Perf/Trace/Util.pm",
+    "size": 1515,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "298b62e96d66476532c12c5bccf523858decfcb6b07c09381b315ca8dc2e70be": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/export-to-sqlite.pyo",
+    "size": 13334,
+    "filetypes": [
+      "unknown"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "8547fffa81d7601b6e2514749c0d079e60469e4fcd1ee395f236c4c0f8dc810b": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-kmem.1.gz",
+    "size": 1362,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "632115f30eb3b77f963a6e0b66e46ca1ba962feef5607eaedf9b263e7b050000"
+    ],
+    "depth": 1
+  },
+  "d52d1e451af3d5ff57f33af7d66b2f315fd61e890d46237acf599938bc1af84a": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-evlist.1.gz",
+    "size": 795,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "3faf753fdcfa5420033196e1ce339148d3068d12f87e4a1f7fd2ca2fd73f64b0"
+    ],
+    "depth": 1
+  },
+  "4f7ba866a770abd37d4a067fadcca2ab503f19a95beaee91381e15c3b4002527": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-data.1.gz",
+    "size": 976,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "3d545e02e1b549d1c334ed9a0ecc0666c5489487d5f872ed0576662805be8297"
+    ],
+    "depth": 1
+  },
+  "e127ba945161269d6d110ee572cf2441fdd00f77a37a9bceb143ac6caf187f7c": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/intel-pt-events.pyo",
+    "size": 4698,
+    "filetypes": [],
+    "children": [],
+    "depth": 1
+  },
+  "ecf0d3829351b29ed2400777d7ac545f28aaada76cb10daed405020d653ed471": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/Util.pyo",
+    "size": 3422,
+    "filetypes": [],
+    "children": [],
+    "depth": 1
+  },
+  "2317e74b8dc88d6095ad53a52093e9dae63b5a12412e0a500fd09fbc9edf1b11": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-group",
+    "size": 297,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "18cbff81a05c9b8f8d6359ecbdcad085b786e628d9f9dc056f8061604e465a59": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-branch-filter-ind_call",
+    "size": 141,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "575e735b8696e9b96a56a0099c01c4db0181b8132830973b6081eac7b1d268cc": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/base-record",
+    "size": 565,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "3a5e0effdb03d95aa4938dae0dcf9813d4a3d74d8f5f28df564fb909db763a97": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/sctop.py",
+    "size": 2102,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "334684daec24ea66e24ace548dc9acb42740268a0d7a28e9f2bfb2d0333fb5c4": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/net_dropmonitor.py",
+    "size": 1749,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "cd1e9fca73e6f1c6b34b557c005bfcaa6f2c6a441ea1af99fc5f0fba31e43178": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/mem-phys-addr.py",
+    "size": 2373,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "c495f9827588e853da89d48b7369703ec532aed75a97bc7753017355608f0ffd": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/stackcollapse-record",
+    "size": 190,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "cac152a0066f8a0f371c9cf0fa96f2e548db2b45017351fb7e384276894f33f2": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/net_dropmonitor-report",
+    "size": 132,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "9b4d6d0a96c1f567ad43a2d6ab40aaadea936f73c0e68bd8860c7c3934774ca9": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/mem-phys-addr-record",
+    "size": 464,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "8e4c0356a7131309b8098bfe0a37c3dab35bcfbbfc5bd5454e268e07cae02da8": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/futex-contention-record",
+    "size": 82,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "b45a762d771e5208bf10f0c0ac506bda4ccccba51679d7ad535120dd23219d4c": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/export-to-postgresql-record",
+    "size": 205,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "0519d71609e353652738919c7178f05919320364e83c1b22924f4b942c30555e": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/compaction-times-record",
+    "size": 229,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "44e761eeb782a4849f2fc1a18238d37c3cf50b80221b4f4bce5b6e70e3f8f2d1": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/rw-by-pid.pl",
+    "size": 5206,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "9478b5fea5b18d8994151f58c78a6c8f111bdc4bf52210146c01b87ff28b17af": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/bin/wakeup-latency-record",
+    "size": 75,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "f2baf63791942bdb40af66047487eca98e9ed03bb7419679e699036abf606a13": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/bin/rw-by-file-report",
+    "size": 232,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "15e5e84e469337dfe0495f3bc60226da2153e96f042750f844654dfb7359933d": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/bin/check-perf-trace-record",
+    "size": 78,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "2bed89675a623691e8d1d27669d534f89da5bf75aebdb5b6d3f92c345a2bd705": {
+    "type": "file",
+    "name": "./etc/bash_completion.d/perf",
+    "size": 6286,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "b18ae0122541169c804de9088e0c4a101eb8e4dfc906fa6c65f92bcc2b40ed60": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/syscall-counts-by-pid.pyo",
+    "size": 2931,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "07a069fc803a75e8b29c1952e6c15870a3178e886a13c223c476316fb484d787": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/export-to-postgresql.pyo",
+    "size": 20164,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "ddef8b0a8ca41cb921e643167c9ba9fef41c27bcbbd35944bc91645ade6be725": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/Core.pyo",
+    "size": 4291,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "3fba0630a80dd332ecf29fccb917a0f1d26d9a8755455483cfb20b82b0068caa": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-timechart.1.gz",
+    "size": 1996,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "564446a137c97c8d115f4843215822747a6757f71bca61234cd07788044f00a9"
+    ],
+    "depth": 1
+  },
+  "0a61b5831201afda4a868c166dfe6d25787ce2ca37c43b38627598db233a8857": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-script.1.gz",
+    "size": 6328,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "0bc38eb27bc4caa153a0ea16e96965b98041854e9db1caf8f89440a674686a6b"
+    ],
+    "depth": 1
+  },
+  "fd86c366a7f3f25c76e6caca0c3f264e473bf6ae2060163769dc903df2b31051": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-diff.1.gz",
+    "size": 2810,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "c8e9be58c2559cb9507534da0d68733f0380bd966ce62eca3414cb78f8aa938c"
+    ],
+    "depth": 1
+  },
+  "d8a10612e1ffa232ed8a4ef4053de12576cee253267ac5e5ba1646e3c5f04160": {
+    "type": "file",
+    "name": "./usr/lib64/traceevent/plugins/plugin_function.so",
+    "size": 10184,
+    "filetypes": [
+      "abi-sysv",
+      "elf-shared-object",
+      "elf-file",
+      "arch-x86_64"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "cddf6a3c17cf929d247f51c042ec9a208ec9463b0d9cea565310e11ddbe002e9": {
+    "type": "file",
+    "name": "./usr/lib64/traceevent/plugins/plugin_cfg80211.so",
+    "size": 5272,
+    "filetypes": [
+      "abi-sysv",
+      "elf-shared-object",
+      "elf-file",
+      "arch-x86_64"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "effb3c85d0b695d14a09a6716f76dfec3823a70ed09519034c5e527f688da54b": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/shell/probe_vfs_getname.sh",
+    "size": 302,
+    "filetypes": [],
+    "children": [],
+    "depth": 1
+  },
+  "c6bb96af679a10d74e67b88e39c4d4f7b780ee7dfcca755d88c27073165b6416": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-stat-basic",
+    "size": 107,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "96a5cb253dcbd8ea32a9cc4832eba774236c949710b40e97466e1fac2b6b328b": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-period",
+    "size": 125,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "c979be8266f97169fd025f594d98fdd03eb0f0332352197167e8ca5d3862a809": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-graph-dwarf",
+    "size": 265,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "28a8201e2cb856693d88c19f1fc5f89d3e6e0c32e865f2502f18d0c4d8ee0325": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-branch-filter-k",
+    "size": 133,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "ab3a9c9378fcbc7dc6f9665be47ba29a4f12c98b09b81e15b8cd6dc180eed2c5": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-branch-any",
+    "size": 131,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "73f2c391f5e8d0d66e7581757eb8aa4b275f0163e19cf47416547ec8be9e32e6": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-C0",
+    "size": 282,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "af6cb0d70a003961ee5ef7bedc0a566d727fbd949ff2ebd3bf8032059aceae9d": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/stackcollapse.py",
+    "size": 4360,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "c184af5b2b1cde6485f9328c3d69a0364c4cf7960754becaffdc2d62d45610ff": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/intel-pt-events.py",
+    "size": 3961,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "7ddc18ccd4727f521e00a6c4b90253c6370133883c19f8ca322d4993cbd71b3c": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/sctop-record",
+    "size": 111,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "df185404c8205d8b8491abeb4181777a297647a23cd918fc62480a63e7895c45": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/sched-migration-record",
+    "size": 134,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "899358892076ffecacd1142b9e0c53504e9ad70775929a2355d541e988e6e770": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/netdev-times-record",
+    "size": 334,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "b1e5d7b5b537c288069239602d8d59f46e41349305d335514eb488ac921ff7e6": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/export-to-postgresql-report",
+    "size": 669,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "34bad7b0145a9bb73fafaaf1462f746ea731fba3ce7a60980595db9d646bbe63": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/Perf-Trace-Util/lib/Perf/Trace/Core.pm",
+    "size": 4246,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "bfdef20aa978a8058b82c8f2bc1560ad990a972322b1798f5fa28e30c62886fe": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/failed-syscalls-by-pid.pyo",
+    "size": 3022,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "6207731e58f2e0806bf4cc9bc828b34cadcd71b95b0912dca39b13f9c9d81d66": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-top.1.gz",
+    "size": 5251,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "8fe3b90de998258c9f06cb5173a9e786f003057d48b11d116f36f43fc1b6d627"
+    ],
+    "depth": 1
+  },
+  "65c7f40a910247c45e9ab52cbf662f334aecf76c3e307a0958205f580353d1c2": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-sched.1.gz",
+    "size": 2359,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "3e25fdec8d165aef22d50d95fe0c366decac541dfa46e22becf735878dc12a2b"
+    ],
+    "depth": 1
+  },
+  "d0d23c8e816a4748a81469bd0b7e23bdf18ef7d7b48e151750569571954fe4d8": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-kvm.1.gz",
+    "size": 2477,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "ea7ba8ca2f470145156d13b5355be8cf7d3ca36ba04516317a355bbbce446b8b"
+    ],
+    "depth": 1
+  },
+  "4c85936e65713138de21d48d1632da8dc1f76a45bbe4da685af9e3d88b9f76cf": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-c2c.1.gz",
+    "size": 3369,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "83baeca257160cabc8029cfe7627bff4a2b355e9f60d7a2deb14710ea3f9cd43"
+    ],
+    "depth": 1
+  },
+  "5c7164b0f8170756c390b415501f5404a271b76742dd5fc0f519a5ffab37f2fe": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-bench.1.gz",
+    "size": 1925,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "d0a63e2eefd5d930eca8bb85f456cf21310d4f58f354d4bc8425084b2f5677ff"
+    ],
+    "depth": 1
+  },
+  "e5bf82e4d6e80ee70e9e781e53f510fe656bb2b4a668a38230f6ae070f799eeb": {
+    "type": "file",
+    "name": "./usr/lib64/traceevent/plugins/plugin_sched_switch.so",
+    "size": 5328,
+    "filetypes": [
+      "abi-sysv",
+      "elf-shared-object",
+      "elf-file",
+      "arch-x86_64"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "ffd86778111ad3c8dd253dc67a554ae7e08e12b91ff8e23355ea8be122079185": {
+    "type": "file",
+    "name": "./usr/lib64/traceevent/plugins/plugin_jbd2.so",
+    "size": 5272,
+    "filetypes": [
+      "abi-sysv",
+      "elf-shared-object",
+      "elf-file",
+      "arch-x86_64"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "3db9d64e506df6a13c0cc318363d0c6ce1c58a3d158a3e6632ca83034ef23ee3": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/shell/trace+probe_vfs_getname.sh",
+    "size": 1180,
+    "filetypes": [],
+    "children": [],
+    "depth": 1
+  },
+  "65bba27ea3cf2e648c9b52c9893bf83e54ca5d86d8b50a63a721da6377026edc": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/shell/record+probe_libc_inet_pton.sh",
+    "size": 3056,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "81a96fba13d955fe3dee7fe2cded5bba5ecdc3ff9c9b352bd5bca276df1e8602": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/base-stat",
+    "size": 557,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "ca9e299bc3f2f42ce62970fe159ac46483c90d3346c39f25dd43e2dd31e9149c": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/syscall-counts-by-pid.py",
+    "size": 2105,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "16a0918c2da65f3f2ec50f5a2ef1fab528ebebca877aa3756a29e55a86a6f119": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/stat-cpi.py",
+    "size": 2391,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "159bfb92027a3a6346f6b00d8a7b175cc7a51d8b8b2b043608ccc876233490c6": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/stackcollapse-report",
+    "size": 149,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "d6ac4d0d683108c01785e9b44a01da4572c18650daedca0f340e5356ecd1ecbc": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/sctop-report",
+    "size": 484,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "b2779a89f2a3effead6ca7fb68a87c9cd88a12bfecc18b34e175d08e1df21f89": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/sched-migration-report",
+    "size": 122,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "c5704a8b38ed3e5952d1b8bf777fc41e74c6c0db467e22149f768a8a74e58781": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/netdev-times-report",
+    "size": 176,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "a775904833e5274c3c903c59dee8d19aaf16c2d33967dc2cbc268bb8ddc0018c": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/export-to-sqlite-report",
+    "size": 658,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "7808f55b618b93206e4ff0583800d33bc85d74fe26f7e1af3346ccf4a00c0790": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/rw-by-file.pl",
+    "size": 2897,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "b80504391541c7667e962889837cba72961175c022ccd21fb97f74ac5f568fe9": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/Perf-Trace-Util/lib/Perf/Trace/Context.pm",
+    "size": 1053,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "49df15f95fe12bf2d83871e8e1214c93f3bf01cacc98ecbc2049d342634a77f0": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/perf-archive",
+    "size": 1298,
+    "filetypes": [],
+    "children": [],
+    "depth": 1
+  },
+  "cd2c4aab9a0c4c69c029db932f51df88b5b401aa07cd67c37a7c40c89d218d02": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-stat.1.gz",
+    "size": 5662,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "ea791788c379536f3b4edd24c1d4d41a1011d6dd53089d8bc072ebb2af141303"
+    ],
+    "depth": 1
+  },
+  "c050292c8e0f4c83a05099ead665941d80eb04029b129e8c6e06a634373d750e": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-script-python.1.gz",
+    "size": 8160,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "c6d4a32adca237d31cf75bff573cf1122e7424d008cc198f15372172c38a468f"
+    ],
+    "depth": 1
+  },
+  "5491ecaa988c0cf59fb02ebd8b155d0e43a97e6afb2d77cb6c752ba5da76dff4": {
+    "type": "file",
+    "name": "./usr/lib64/traceevent/plugins/plugin_hrtimer.so",
+    "size": 5288,
+    "filetypes": [
+      "abi-sysv",
+      "elf-shared-object",
+      "elf-file",
+      "arch-x86_64"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "4c4c6504831390448af9aa81dda990bff83653272bd9636fccf1955b04d4cc30": {
+    "type": "file",
+    "name": "./usr/bin/perf",
+    "size": 5938600,
+    "filetypes": [
+      "abi-sysv",
+      "elf-file",
+      "elf-exec",
+      "arch-x86_64"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "b113bcae6ab44d494b91037e2d7a0c4223e9e304188c26cd794590041e21fa1c": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/shell/lib/probe_vfs_getname.sh",
+    "size": 719,
+    "filetypes": [],
+    "children": [],
+    "depth": 1
+  },
+  "b8037d1cb821415c15bddf05c5e086f627e4eaa7178dec48d03a57e37bb50af2": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-stat-detailed-1",
+    "size": 1998,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "2ea588e4f2e657cab322014b6fb6065ae88c0d19bd5b698f07843856abe949e8": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-no-inherit",
+    "size": 119,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "03959486e4a2edabb62a07b9ca443b9fdf741be0e97a8f2ca5cf31b55091da59": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-group-sampling",
+    "size": 525,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "16f6a3906ff560b9ee9117d74cccfefc03345b3ad476c9b9474f573dc4573277": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-graph-fp",
+    "size": 122,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "2dc397b245114a9b8397a52c8644df0dd5bf3b287bb1c8e2ab906defb0d4abca": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-data",
+    "size": 256,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "21ec6dd77ca8d70a9fece860b540edea4ac11a593c2ded8d49c87952a40e5846": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-branch-filter-any_ret",
+    "size": 140,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "7b6f4f43e67c42d0d2fb8fd2007333709990c2e7b04a703f637a1d8a5f605ee3": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/README",
+    "size": 3430,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "12203269b4a682292aab90389ead1f9dbbf8f3ee954cc2c491e294678c0d32d2": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr.py",
+    "size": 11524,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "5e72a52b54da3e7fa7288d89a2442bb2b30622b40b7c426a723f912dc01b23dc": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/export-to-postgresql.py",
+    "size": 26613,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "deb2301b69ab465081f38ffed51caf4f12523ebafd3a3062498786b0c25af1d1": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/syscall-counts-report",
+    "size": 241,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "74c34842ab7faeb598ac367816325e1b68b87f7f4ade819b5ab5817c31412600": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/powerpc-hcalls-record",
+    "size": 73,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "0c855f7423b17befb61f4841fbe72ee147504a5d73cfbd5c0254e960a087a3c3": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/intel-pt-events-record",
+    "size": 425,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "2b863ce37d3460ba50422925c503a863ca35a6d1eebd836c4a1f01cc5323999b": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/wakeup-latency.pl",
+    "size": 2784,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "62b81e82e58d1c628802a4c7e75fbae1d248dab7af633e7d7a24cc4869d54999": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/check-perf-trace.pl",
+    "size": 2626,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "b72892cec76a44b1d686463f2f881d9ad8f4b47bca5203e6f561a36648ba20ef": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/bin/rwtop-report",
+    "size": 398,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "f456ce3c4e4ecff82ce0fe092c94425ce7a87c08e240ed23dae12ebebe61756f": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/powerpc-hcalls.pyo",
+    "size": 5764,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "73390c59f22a909718196758969fa0da90c7491e1455579b97ea7e567773e03a": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/mem-phys-addr.pyo",
+    "size": 3709,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "b506edea0fdf04c54db603ddf48a3f452681bbbb7c9af1bee6cd337b6f5a9bb3": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/exported-sql-viewer.pyo",
+    "size": 102686,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "70e19a58f365a28b21c50dcea70161b672ff547d0288b6c85a2b38bbce484b99": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-script-perl.1.gz",
+    "size": 3157,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "07f2164b094ceae47fd06bfdd598dbccf3b560d60ded1642b3faa4a94435d92f"
+    ],
+    "depth": 1
+  },
+  "018634e0c11ac2c402d6b262098d11ab1501571ae234486d62bf2612222fa92c": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-lock.1.gz",
+    "size": 1085,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "d632a53fa9b07174bea2185d12d83fb40f5559c586657612b0fe2b0700d143a2"
+    ],
+    "depth": 1
+  },
+  "59a213314a62ce9cb2f9dbbc9f8c6ee57a16d08752edc895697117c597ba9516": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-ftrace.1.gz",
+    "size": 1324,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "5f611b8e387cb64fe9cefba24c152e6c7cd85b6e3e3ef30c62ed3c7d7775a672"
+    ],
+    "depth": 1
+  },
+  "b7e7f95751c41b12d813aced0c8241a1a41eb03540c8be5f5869785b1795f1d6": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-annotate.1.gz",
+    "size": 2011,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "4ae5b74b3d903f5646013f49b7f9c67ef7da42f4ab948b2e85f83c5cb61c704c"
+    ],
+    "depth": 1
+  },
+  "43183b508f00cabf4aaacec6c1163cf43bc73a0d7abd57b94c711887da5b7e20": {
+    "type": "file",
+    "name": "./usr/lib64/traceevent/plugins/plugin_xen.so",
+    "size": 5944,
+    "filetypes": [
+      "abi-sysv",
+      "elf-shared-object",
+      "elf-file",
+      "arch-x86_64"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "26e04584faeef0610ae10e17ca6b8609d5f5fd00c51c0957ec3682cd59745659": {
+    "type": "file",
+    "name": "./usr/lib64/traceevent/plugins/plugin_kvm.so",
+    "size": 15928,
+    "filetypes": [
+      "abi-sysv",
+      "elf-shared-object",
+      "elf-file",
+      "arch-x86_64"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "a64a3109fb483c7d59649282254bed53f2da6816ff4776b73fec94b44a38248f": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/net_dropmonitor.pyo",
+    "size": 2470,
+    "filetypes": [],
+    "children": [],
+    "depth": 1
+  },
+  "00f5d23a482d25811a038e1c51e3122906c3bf89c79fedb78d4ee8ed49d44dac": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/EventClass.pyo",
+    "size": 3298,
+    "filetypes": [],
+    "children": [],
+    "depth": 1
+  },
+  "54184e46d9e69edf40f62babf205a906656c6a7b3f803bded371a956041135f2": {
+    "type": "file",
+    "name": "./usr/share/perf-core/strace/groups/file",
+    "size": 136,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "ae7bf5bdede62e0d6dc51e9f6fa88e7732ce322324f54c27e2405987119ff936": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/shell/record+script_probe_vfs_getname.sh",
+    "size": 1185,
+    "filetypes": [],
+    "children": [],
+    "depth": 1
+  },
+  "0f870716ee940acc118aa97c6066b4c7e7c0f44b44ad87d95661537b2ccab6f5": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-stat-detailed-2",
+    "size": 3373,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "127cff851304dc8209408fa4a2f927e948f3e5b59165f8705748ff4d57cb9ae9": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-raw",
+    "size": 110,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "6758865da56a9bb6e981bbe1a460facf206ca789fbb8d87cdbc7e13c954af899": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-group1",
+    "size": 300,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "031aa24f14088ca49c81736f58e519e15879af54088d9c005bda10d76f6fc1d9": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-count",
+    "size": 136,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "7e7958339b1d01a85c358ae6954e22835718225b8dacd7ce2624759dca68623d": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/syscall-counts.py",
+    "size": 1700,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "61456144a345d775339fb8704684db05053205a876e9b924559c05484ffcbdf0": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/powerpc-hcalls.py",
+    "size": 4495,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "edc86a7f7bcb1654eb7594936ee8ab4ec052e1f57970b15d9b850adadfd4d924": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/netdev-times.py",
+    "size": 15191,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "45b082ca21d24bc99509747a51e0aabbe8e8924677847e7ebab8de485eb8b664": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/event_analyzing_sample.py",
+    "size": 7393,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "836600a01075dd1b9fb4e442b994d6a4ba9a63d670651ccd7e1c33255ef90ec7": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/compaction-times-report",
+    "size": 210,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "c78786606529ec44d11fa21214de9c557089decb47e0ca49d604be7df4c46536": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/Util.py",
+    "size": 2183,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "2aa9b7f513835ab10a80b4de13e47c3194a5b3cbca6ed3c8c89750fd9335af84": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/Core.py",
+    "size": 3310,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "087f670ad8331e056b3bdfb6972d4cf73b15f9b11f87568e7487c6578c291152": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/bin/rw-by-pid-report",
+    "size": 114,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "57b58a7cd43b9977bdf7e53138f7260b0dca8f5cfa5fb86cd0a754a94221fcba": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr.pyo",
+    "size": 11405,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "ed8ccbf3b9c23ec003f12cc064239baa42fd17e455666f15c1216d284e0d4ccd": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/sctop.pyo",
+    "size": 2671,
+    "filetypes": [
+      "unknown"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "a98b10fa09b7b2ef60b64df13370d6a3c7eb7708205c4914ca39fea337d56219": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/netdev-times.pyo",
+    "size": 15677,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "aad589c8b623760d9a697bf6c11a91732908b8a9c1aa3cae5e543d724d4cf528": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/futex-contention.pyo",
+    "size": 1839,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "95221ec72dadc8ba8dde12073c2ff97e2fcf5479c284d4e4bd64f66a1c18e3ac": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/compaction-times.pyo",
+    "size": 13619,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "ae246ff46fddb8bf3ff471f5e141026d6be550414c2d6ca4801a4ec90f3a0641": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/SchedGui.pyo",
+    "size": 7475,
+    "filetypes": [
+      "utf16-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "02a3eb78c39ce7f2ed44a67b782e2b9d22a2ce1cc3b29ed0f20d36b20307c7e9": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf.1.gz",
+    "size": 1024,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "0a2c048cb8b97ebf57f210007397fbc33908ef7d05e4ee9c924ccd8eef33e429"
+    ],
+    "depth": 1
+  },
+  "191742180aa0b2e36de2145959584d2197ec4c941557cb7a4c16c0f66b93f548": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-version.1.gz",
+    "size": 654,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "e8cd2bf5278ae310224ca9d899be735146dfa010195c3db883a03f09e35f4d30"
+    ],
+    "depth": 1
+  },
+  "7640538d5c4f7a3ec5f6adb85e131021d8a3d978070ec639448e872ce430c6b3": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-trace.1.gz",
+    "size": 4756,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "1f45891484bd6d4fa323327a800d7ac3641e47a9ca482ca929cd2774c94105e7"
+    ],
+    "depth": 1
+  },
+  "92bf836ab1ad3e61f9b95182bffd536c173afba22f7e56218484d4e5d4017f58": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-test.1.gz",
+    "size": 870,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "77805396fa5df2efe14c643d74003442a83463a4fd3eefbf8251c9d2fd4326a4"
+    ],
+    "depth": 1
+  },
+  "c3164266f4465c2e737538244db5fe6815badfe80f956e655d06622e8289f223": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-report.1.gz",
+    "size": 8581,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "af014f8a3585cb584e329bc56bd494de4cf6883b664f6dca0c0a28a84d0001f2"
+    ],
+    "depth": 1
+  },
+  "35818d3ad416ebccaf44d55b90276ffb1ed68e086f8cc420654772d02219b81b": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-mem.1.gz",
+    "size": 1506,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "d98e8c1185c216a98f755ea9315c81f01c59235885dcae387fb4db32f71c037a"
+    ],
+    "depth": 1
+  },
+  "6ca4c851c618b9a9d7950090d83036b6aabc026ced0341da06559a9dc5ac1581": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-record.1.gz",
+    "size": 8021,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "d0d13ca4a404d4f8340377dd520072c390fad5773e06263abe465788f82ee84b"
+    ],
+    "depth": 1
+  },
+  "a026dac74a9042326813edd736b58b04f3b20cf7adab767e5c0e626a6a9abbc3": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-list.1.gz",
+    "size": 4901,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "20a1644678f2bf225cfdf633dae918e31ddae9caaa70b2dde67d8db432935ed8"
+    ],
+    "depth": 1
+  },
+  "4b40fdaa5d5d0ba7244c483e04dde8dfe478776ffa9b856531cc148d03d2e618": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-inject.1.gz",
+    "size": 1757,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "e1f60ac1e59941a0b6b61b423f17480eb5524acfbc9f004c8789d2755d8e0b43"
+    ],
+    "depth": 1
+  },
+  "0bf8ae6313cbbc1cc6449b34e96cdf9a932eae75d731969b43868f3a073042b2": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-help.1.gz",
+    "size": 901,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "e2e39bb1f40177a33a8d920daa687f17c4508dbed52c3511d38762d96ffe8870"
+    ],
+    "depth": 1
+  },
+  "e5b7b4c7e8f124f904d47e53697c1375722a411b3844d67d608259a2253de506": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-config.1.gz",
+    "size": 6769,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "0d7f8b5a3c4c4c88677a557241b19651e325a5a342237fb0749162615112986f"
+    ],
+    "depth": 1
+  },
+  "9c1fe28a0496ada69e282c92b829be4e56cfdadb5f42a049665e8d508f6774b0": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-buildid-list.1.gz",
+    "size": 877,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "383cb2751606d5a025c251c384126458ec0ee4ef35db6a0ed3ce26105c8cbcac"
+    ],
+    "depth": 1
+  },
+  "fea20d77984f4f314664254214c8d568ee5bb0a4d552e6ae2c9112fbc5d7f693": {
+    "type": "file",
+    "name": "./usr/share/man/man1/perf-archive.1.gz",
+    "size": 689,
+    "filetypes": [
+      "gzip-file"
+    ],
+    "children": [
+      "b5cc01b8e25659b73ab09a8fc94fc338de2fd98001385218c99059742dc8c762"
+    ],
+    "depth": 1
+  },
+  "bb60a38cac2fb760e7387a8f39b0f736fa3db5933c38fe188991d2d48021d4bb": {
+    "type": "file",
+    "name": "./usr/lib64/traceevent/plugins/plugin_scsi.so",
+    "size": 9528,
+    "filetypes": [
+      "abi-sysv",
+      "elf-shared-object",
+      "elf-file",
+      "arch-x86_64"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "777979645a2e14916490e81aaee91f1c406fe17564cfa862e3eb02d11e24e6f3": {
+    "type": "file",
+    "name": "./usr/lib64/traceevent/plugins/plugin_kmem.so",
+    "size": 5304,
+    "filetypes": [
+      "abi-sysv",
+      "elf-shared-object",
+      "elf-file",
+      "arch-x86_64"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "898b9f5b3ae75fd065d49f3846a50fa2c23fcd075acd1719aa2717c3e871ebc8": {
+    "type": "file",
+    "name": "./usr/lib64/libperf-jvmti.so",
+    "size": 22840,
+    "filetypes": [
+      "abi-sysv",
+      "elf-shared-object",
+      "elf-file",
+      "arch-x86_64"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "a10deb47c4092fee10b059c2f95436f51275334ef2f1d429837464229dffec26": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/stackcollapse.pyo",
+    "size": 3432,
+    "filetypes": [],
+    "children": [],
+    "depth": 1
+  },
+  "4d8ebe46afe2ce2c9eb0f6cb962bbeb67637786d6b8c7e9219e73f41c5f6ada3": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/stat-cpi.pyo",
+    "size": 3130,
+    "filetypes": [],
+    "children": [],
+    "depth": 1
+  },
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855": {
+    "type": "file",
+    "name": "var/cache/apt/archives/lock",
+    "size": 0,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "1b4dea983ca5f61bcafc212257531c31c12b2e4c29e93b73646f979e93578cb0": {
+    "type": "file",
+    "name": "./usr/share/doc/perf-tip/tips.txt",
+    "size": 2264,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "cec47863e58112f5d2c2476c03ed32319bfa52af992b7f8cd228c2d3c2fb81da": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/shell/lib/probe.sh",
+    "size": 153,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "1b214b94a694edc4e81126a322d04730ff4c3db7e40a570c6c746bb5abbc96aa": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-stat-group1",
+    "size": 240,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "18e16bdc560b89e593b341801d210ef8de14cc3d52063a9d1e14bb81d1a175bc": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-stat-group",
+    "size": 244,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "857c1b3eb121f75609374559d04c726479c6347585efe0f69660b55f3db70bb6": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-stat-default",
+    "size": 1075,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "23de69dfc856391c9e3491821fc3f4a13f426a6fe696399e68a582f6c88e4512": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-no-samples",
+    "size": 109,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "a1f3544a47a7496cbc3c88af5684f89010c56066c50cbf20e0c63e0d05b7c1f4": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-no-buffering",
+    "size": 149,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "0bb0bc90b49fee1ddc0eb5980dc5b0a6ad871378181d49ceb959f49b2f7ca924": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-graph-default",
+    "size": 109,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "8c4a06009e1f964e05d50bf08275a39066eeaf4c2404c1d6738ac454ae992d49": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-branch-filter-u",
+    "size": 133,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "4537f2b702abffd06b9cb4f556b216a47534ee4695a40dd0d6053cb77a9a8c4d": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-branch-filter-hv",
+    "size": 134,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "031c4d942011e9b120b8797c9c7e2c1aecf9d4762fdae1fcbd0c1dc29fb99239": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-basic",
+    "size": 90,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "5c4b4e2b11dbbb70e034f3b6a0b9805f2350bcc0f9ff50f47a4081afe49d6ba3": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/tests/attr/test-record-branch-filter-any",
+    "size": 135,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "bf18480360e9fb135bb5aaeae7bd6081146f0f5cf0364dff925c62329983e88c": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/futex-contention.py",
+    "size": 1508,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "7701b815c219d1e85593ee5e73c4c36e166a3bfe704383b38551dab97a6dc563": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/failed-syscalls-by-pid.py",
+    "size": 2233,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "63639ca47e710717fdd1a940fe03ec8974c44d6c0051b0cd192ee5ea2586a729": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/exported-sql-viewer.py",
+    "size": 82426,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "b403cf8a193ec6f9809a494c2aa9ef218eb5dacc8ddb3d38bb420125ebb81e04": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/export-to-sqlite.py",
+    "size": 13478,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "527aa508a4d9b1a62d8f25a40302979705307a4d2a7213feaf77f7d50cf7f354": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/compaction-times.py",
+    "size": 7950,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "493f572d46820426cb7c76d34827907def5996a1a8f06df3fdca31321d54f2d9": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/check-perf-trace.py",
+    "size": 2539,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "b39c0032e6354787bd59d3672eb6100c65e4deef8ceb71baf4d0da7a60887c29": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/syscall-counts-by-pid-report",
+    "size": 256,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "6eccb718f305dc19fc088943588a25b0dbe2745be65adb3f2fea3f59c0cc6412": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/powerpc-hcalls-report",
+    "size": 81,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "5d8edb679bb47c086fffb3f79d796a90338b760d32a4714f8c6fa2bbac4a05be": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/net_dropmonitor-record",
+    "size": 44,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "060863026847a50f642183256626c034b69783b9470db7a8bf3d830bedcce685": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/futex-contention-report",
+    "size": 129,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "58f7d5a744a606c9a390f6b8f188d213e47f7e20316288d13a92a340dd45663c": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/bin/failed-syscalls-record",
+    "size": 109,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "adfa585c17990dfb4dabfd3c29a4fe369a3ed8529a680662723ceb712f89712a": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/export-to-sqlite-record",
+    "size": 202,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "a2593ceb28815063c46ea30a77e6af5d94fb57acef8185bd01e6e2e576044116": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/bin/event_analyzing_sample-report",
+    "size": 129,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "9464635385bd72a80bcd543e61a29dfe19f0cc50a197574eee92302fe49533e1": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/python/Perf-Trace-Util/lib/Perf/Trace/SchedGui.py",
+    "size": 5411,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "d8b0f98dc8f65e7bfb167fc68bee72db66f85861f4838db0a3e19dd86b61fe75": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/rwtop.pl",
+    "size": 4570,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "0eae702e9cc13d4e7bc2bf02b2275976cb2c914be611b6bcb062c5ced313be5f": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/scripts/perl/bin/rw-by-file-record",
+    "size": 83,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "16be0fcbc818e3bf58e75bed2837a7de93e69c84191ffb6c8c9db29b9b57bb9b": {
+    "type": "file",
+    "name": "./usr/libexec/perf-core/perf-with-kcore",
+    "size": 6894,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 1
+  },
+  "d6bd5be396e233aa1d151f0f25a5d5cd8d62069463a6a5aaa318872f645f1e20": {
+    "type": "file",
+    "name": "",
+    "size": 14681,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "6755e9a5e8e412a4580161e6dc0147cd9c4d4270e8639e8ca18826b72fd9ccdb": {
+    "type": "file",
+    "name": "",
+    "size": 1770,
+    "filetypes": [],
+    "children": [],
+    "depth": 2
+  },
+  "f7728f523017fa2c389c00b210ebc65531bf991ff330cd04c71f6ce8cc6a5c70": {
+    "type": "file",
+    "name": "",
+    "size": 3714,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "632115f30eb3b77f963a6e0b66e46ca1ba962feef5607eaedf9b263e7b050000": {
+    "type": "file",
+    "name": "",
+    "size": 3326,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "3faf753fdcfa5420033196e1ce339148d3068d12f87e4a1f7fd2ca2fd73f64b0": {
+    "type": "file",
+    "name": "",
+    "size": 1951,
+    "filetypes": [],
+    "children": [],
+    "depth": 2
+  },
+  "3d545e02e1b549d1c334ed9a0ecc0666c5489487d5f872ed0576662805be8297": {
+    "type": "file",
+    "name": "",
+    "size": 2261,
+    "filetypes": [],
+    "children": [],
+    "depth": 2
+  },
+  "564446a137c97c8d115f4843215822747a6757f71bca61234cd07788044f00a9": {
+    "type": "file",
+    "name": "",
+    "size": 5416,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "0bc38eb27bc4caa153a0ea16e96965b98041854e9db1caf8f89440a674686a6b": {
+    "type": "file",
+    "name": "",
+    "size": 20486,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "c8e9be58c2559cb9507534da0d68733f0380bd966ce62eca3414cb78f8aa938c": {
+    "type": "file",
+    "name": "",
+    "size": 9477,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "8fe3b90de998258c9f06cb5173a9e786f003057d48b11d116f36f43fc1b6d627": {
+    "type": "file",
+    "name": "",
+    "size": 14869,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "3e25fdec8d165aef22d50d95fe0c366decac541dfa46e22becf735878dc12a2b": {
+    "type": "file",
+    "name": "",
+    "size": 6678,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "ea7ba8ca2f470145156d13b5355be8cf7d3ca36ba04516317a355bbbce446b8b": {
+    "type": "file",
+    "name": "",
+    "size": 7501,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "83baeca257160cabc8029cfe7627bff4a2b355e9f60d7a2deb14710ea3f9cd43": {
+    "type": "file",
+    "name": "",
+    "size": 10200,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "d0a63e2eefd5d930eca8bb85f456cf21310d4f58f354d4bc8425084b2f5677ff": {
+    "type": "file",
+    "name": "",
+    "size": 6463,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "ea791788c379536f3b4edd24c1d4d41a1011d6dd53089d8bc072ebb2af141303": {
+    "type": "file",
+    "name": "",
+    "size": 16905,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "c6d4a32adca237d31cf75bff573cf1122e7424d008cc198f15372172c38a468f": {
+    "type": "file",
+    "name": "",
+    "size": 27788,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "07f2164b094ceae47fd06bfdd598dbccf3b560d60ded1642b3faa4a94435d92f": {
+    "type": "file",
+    "name": "",
+    "size": 9315,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "d632a53fa9b07174bea2185d12d83fb40f5559c586657612b0fe2b0700d143a2": {
+    "type": "file",
+    "name": "",
+    "size": 2708,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "5f611b8e387cb64fe9cefba24c152e6c7cd85b6e3e3ef30c62ed3c7d7775a672": {
+    "type": "file",
+    "name": "",
+    "size": 3722,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "4ae5b74b3d903f5646013f49b7f9c67ef7da42f4ab948b2e85f83c5cb61c704c": {
+    "type": "file",
+    "name": "",
+    "size": 4958,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "0a2c048cb8b97ebf57f210007397fbc33908ef7d05e4ee9c924ccd8eef33e429": {
+    "type": "file",
+    "name": "",
+    "size": 2442,
+    "filetypes": [],
+    "children": [],
+    "depth": 2
+  },
+  "e8cd2bf5278ae310224ca9d899be735146dfa010195c3db883a03f09e35f4d30": {
+    "type": "file",
+    "name": "",
+    "size": 1715,
+    "filetypes": [],
+    "children": [],
+    "depth": 2
+  },
+  "1f45891484bd6d4fa323327a800d7ac3641e47a9ca482ca929cd2774c94105e7": {
+    "type": "file",
+    "name": "",
+    "size": 14040,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "77805396fa5df2efe14c643d74003442a83463a4fd3eefbf8251c9d2fd4326a4": {
+    "type": "file",
+    "name": "",
+    "size": 2057,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "af014f8a3585cb584e329bc56bd494de4cf6883b664f6dca0c0a28a84d0001f2": {
+    "type": "file",
+    "name": "",
+    "size": 30474,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "d98e8c1185c216a98f755ea9315c81f01c59235885dcae387fb4db32f71c037a": {
+    "type": "file",
+    "name": "",
+    "size": 3624,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "d0d13ca4a404d4f8340377dd520072c390fad5773e06263abe465788f82ee84b": {
+    "type": "file",
+    "name": "",
+    "size": 24094,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "20a1644678f2bf225cfdf633dae918e31ddae9caaa70b2dde67d8db432935ed8": {
+    "type": "file",
+    "name": "",
+    "size": 13982,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "e1f60ac1e59941a0b6b61b423f17480eb5524acfbc9f004c8789d2755d8e0b43": {
+    "type": "file",
+    "name": "",
+    "size": 4850,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "e2e39bb1f40177a33a8d920daa687f17c4508dbed52c3511d38762d96ffe8870": {
+    "type": "file",
+    "name": "",
+    "size": 2188,
+    "filetypes": [],
+    "children": [],
+    "depth": 2
+  },
+  "0d7f8b5a3c4c4c88677a557241b19651e325a5a342237fb0749162615112986f": {
+    "type": "file",
+    "name": "",
+    "size": 22189,
+    "filetypes": [
+      "ascii-file"
+    ],
+    "children": [],
+    "depth": 2
+  },
+  "383cb2751606d5a025c251c384126458ec0ee4ef35db6a0ed3ce26105c8cbcac": {
+    "type": "file",
+    "name": "",
+    "size": 2098,
+    "filetypes": [],
+    "children": [],
+    "depth": 2
+  },
+  "b5cc01b8e25659b73ab09a8fc94fc338de2fd98001385218c99059742dc8c762": {
+    "type": "file",
+    "name": "",
+    "size": 1673,
+    "filetypes": [],
+    "children": [],
+    "depth": 2
+  }
+}

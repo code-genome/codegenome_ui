@@ -1,0 +1,174 @@
+{
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "appHeader": {
+        "appName": "Code Genome",
+        "historyLabel": "History",
+        "searchLabel":"Search",
+        "homeLabel":"Home",
+        "jobDetailsLabel":"Job Details",
+        "compareLabel":"Compare"
+    },
+    "historyTable": {
+        "headers": {
+            "id":"ID",
+            "subid": "Submission ID",
+            "status": "Status",
+            "internal_jobid": "Internal Job ID",
+            "submitted_time": "Date",
+            "httpstatus": "HTTP job submission status code",
+            "statusText": "HTTP status text message",
+            "fileid": "File hash",
+            "filename": "File name",
+            "om":"Actions"
+        },
+        "custom_columns": {
+            "customize_columns": "Customize columns",
+            "drag_to_reorder": "Drag to reorder",
+            "subtitle": "Select, order, and apply columns to your view.",
+            "search": "Search column headers...",
+            "column_selected": "{{count}} column selected",
+            "column_selected_plural": "{{count}} columns selected",
+            "remove_column": "Remove {{itemLabel}}"
+        },
+        "NoDataEmptyState": {
+            "no_results": "No results yet"
+        },
+        "overflow_menu": {
+            "select_for_compare": "Select for compare",
+            "compare_with_selected": "Compare with selected"
+        }
+    },
+    "searchResultsTable": {
+        "headers": {
+            "id": "File ID",
+            "filename": "Filename",
+            "package_name": "Package name",
+            "dist": "Similarity",
+            "match_count": "Match count",
+            "match_ratio": "Match ratio",
+            "gene_counts": "Gene counts",
+            "sha256":"File Hash"
+        },
+        "custom_columns": {
+            "customize_columns": "Customize columns",
+            "drag_to_reorder": "Drag to reorder",
+            "subtitle": "Select, order, and apply columns to your view.",
+            "search": "Search column headers...",
+            "column_selected": "{{count}} column selected",
+            "column_selected_plural": "{{count}} columns selected",
+            "remove_column": "Remove {{itemLabel}}"
+        },
+        "description":"Closest matches to uploaded sample"
+    },
+    "UploadPage": {
+        "drag_and_drop": "Drag and drop files here or click to upload",
+        "upload_error": "Upload error"
+    },
+    "ComparePage": {
+        "swap": "Swap"
+    },
+    "compareResultsTable": {
+        "headers": {
+            "id": "File ID",
+            "f1": "{{name1}} Functions",
+            "f2": "{{name2}} Functions",
+            "score": "Score",
+            "op":"op",
+            "om":"Actions"
+        },
+        "overflow_menu": {
+            "show_diff": "Compare functions"
+        },
+        "custom_columns": {
+            "customize_columns": "Customize columns",
+            "drag_to_reorder": "Drag to reorder",
+            "subtitle": "Select, order, and apply columns to your view.",
+            "search": "Search column headers...",
+            "column_selected": "{{count}} column selected",
+            "column_selected_plural": "{{count}} columns selected",
+            "remove_column": "Remove {{itemLabel}}"
+        },
+        "description":"Gene similarity: {{similarityValue}}"
+    },
+    "compareFunctionTearsheet" : {
+        "title": "Function compare",
+        "llvmir":"LLVMIR diff"
+
+    },
+    "SbomViewer": {
+        "headers": {
+            "purl": "Package url",
+            "supplier_name": "Supplier",
+            "name":"Name",
+            "type":"Type",
+            "version": "Version",
+            "property_filetype":"File type",
+            "property_size": "Size",
+            "author":"Author",
+            "bomref":"BOM Reference",
+            "publisher":"Publisher",
+            "scope":"Scope",
+            "hash_algs":"Hash Algorithms",
+            "hashes":"Hashes",
+            "description":"Description",
+            "licenses":"Licenses",
+            "copyright":"Copyright",
+            "supplier_url":"Supplier URL",
+            "supplier_contact":"Supplier Contact"
+        },
+        "custom_columns": {
+            "customize_columns": "Customize columns",
+            "drag_to_reorder": "Drag to reorder",
+            "subtitle": "Select, order, and apply columns to your view.",
+            "search": "Search column headers...",
+            "column_selected": "{{count}} column selected",
+            "column_selected_plural": "{{count}} columns selected",
+            "remove_column": "Remove {{itemLabel}}"
+        },
+        "description":""
+    },
+    "JobPage": {
+        "errorTitle":"Job retrieval error",
+        "totalFiles":"Total Files",
+        "skippedFiles":"Skipped Files",
+        "failedFiles":"Failed Files",
+        "totalFileTime":"Processing Time (s)",
+        "contentSection":"Job tree"
+    },
+    "AdminSearchPage": {
+        "pageHeader": {
+            "search": "Admin search"
+        }
+    },
+    "SearchPage": {
+        "EmptyState": {
+            "title": "No data",
+            "description": "No package treeview data available"
+        },
+        "detailsTabLabel":"Details",
+        "genomeSearchLabel":"Genome Search",
+        "sbomLabel":"SBOM",
+        "searchError":"Search error",
+        "rescanButtonLabel":"Rescan",
+        "uploadButtonLabel":"Add File",
+        "filenameLabel":"File Name",
+        "filetypeLabel":"File Type",
+        "filesizeLabel":"File size",
+        "sha256":"File Hash",
+        "contentSection":"File content"
+    },
+    "emptyState": {
+        "img_alt": "Empty state alt image"
+    },
+    "sbom": {
+        "title":"Software Bill of Materials",
+        "subtitle":"SBOM format: {{bomFormat}} spec version: {{specVersion}}  Supplier: {{supplier}}",
+        "cancel":"Cancel"
+    },
+    "CompareMachineCodeTable": {
+        "addr":"Address",
+        "mcode":"Machine Code",
+        "asm":"Assembly Language"
+    }
+}

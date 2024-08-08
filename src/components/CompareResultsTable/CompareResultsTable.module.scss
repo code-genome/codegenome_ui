@@ -1,0 +1,52 @@
+/**
+  * Copyright IBM Corp. 2022, 2023
+  *
+  * This source code is licensed under the Apache-2.0 license found in the
+  * LICENSE file in the root directory of this source tree.
+  *
+  */
+
+.deletion {
+    background-color: #e800004d;
+    --cds-layer: #e800004d;
+    :global(.cds--data-table td, .cds--data-table tbody th) {
+        --cds-layer: #e800004d;
+        background-color: #e800004d;
+    }
+}
+
+.exclamation {
+    background-color: #af7201e3;
+    --cds-layer: #af7201e3;
+    :global(.cds--data-table td, .cds--data-table tbody th) {
+        --cds-layer: #af7201e3;
+        background-color: #af7201e3;
+    }
+}
+
+.addition {
+    background-color: #0fe80055;
+    --cds-layer: #0fe80055;
+    :global(.cds--data-table td, .cds--data-table tbody th) {
+        --cds-layer: #0fe80055;
+        background-color: #0fe80055;
+    }
+
+}
+
+.tilde {
+    background-color: #0031857a;
+    --cds-layer: #0031857a;
+    :global(.cds--data-table td, .cds--data-table tbody th) {
+        --cds-layer: #0031857a;
+        background-color: #0031857a;
+    }
+}
+
+.crtHeaderTable td {
+    padding-left: 10px;
+}
+
+.similarityValue {
+    margin-left: 16px;
+}

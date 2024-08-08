@@ -1,0 +1,1 @@
+CG_HOST='http://cg1.sl.cloud9.ibm.com:5101'
